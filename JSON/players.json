@@ -1,0 +1,5892 @@
+[
+         {
+            "playerId": "1",
+            "name": "Ben Bentil",
+            "team": "BOS",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "235",
+            "dob": "1995-03-29",
+            "school": "Providence"
+         },
+         {
+            "playerId": "2",
+            "name": "Avery Bradley",
+            "team": "BOS",
+            "position": "SG",
+            "height": "6-2",
+            "weight": "180",
+            "dob": "1990-11-26",
+            "school": "Texas"
+         },
+         {
+            "playerId": "3",
+            "name": "Jaylen Brown",
+            "team": "BOS",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "225",
+            "dob": "1996-10-24",
+            "school": "California"
+         },
+         {
+            "playerId": "4",
+            "name": "Jae Crowder",
+            "team": "BOS",
+            "position": "SF",
+            "height": "6-6",
+            "weight": "235",
+            "dob": "1990-07-06",
+            "school": "Marquette"
+         },
+         {
+            "playerId": "5",
+            "name": "Gerald Green",
+            "team": "BOS",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "205",
+            "dob": "1986-01-26",
+            "school": "No College"
+         },
+         {
+            "playerId": "6",
+            "name": "Al Horford",
+            "team": "BOS",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "245",
+            "dob": "1986-06-03",
+            "school": "Florida"
+         },
+         {
+            "playerId": "7",
+            "name": "R.J. Hunter",
+            "team": "CHI",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "185",
+            "dob": "1993-10-24",
+            "school": "Georgia State"
+         },
+         {
+            "playerId": "8",
+            "name": "Demetrius Jackson",
+            "team": "BOS",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "201",
+            "dob": "1994-09-07",
+            "school": "Notre Dame"
+         },
+         {
+            "playerId": "9",
+            "name": "Jonas Jerebko",
+            "team": "BOS",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "231",
+            "dob": "1987-03-02",
+            "school": "No College"
+         },
+         {
+            "playerId": "10",
+            "name": "Amir Johnson",
+            "team": "BOS",
+            "position": "C",
+            "height": "6-9",
+            "weight": "240",
+            "dob": "1987-05-01",
+            "school": "No College"
+         },
+         {
+            "playerId": "11",
+            "name": "Jalen Jones",
+            "team": "BOS",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "220",
+            "dob": "1993-05-27",
+            "school": "Texas A M"
+         },
+         {
+            "playerId": "12",
+            "name": "Damion Lee",
+            "team": "BOS",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "210",
+            "dob": "1992-10-21",
+            "school": "Louisville"
+         },
+         {
+            "playerId": "13",
+            "name": "Jordan Mickey",
+            "team": "BOS",
+            "position": "PF",
+            "height": "6-8",
+            "weight": "235",
+            "dob": "1994-07-09",
+            "school": "Louisiana State"
+         },
+         {
+            "playerId": "14",
+            "name": "Kelly Olynyk",
+            "team": "BOS",
+            "position": "C",
+            "height": "7-0",
+            "weight": "238",
+            "dob": "1991-04-19",
+            "school": "Gonzaga"
+         },
+         {
+            "playerId": "15",
+            "name": "Terry Rozier",
+            "team": "BOS",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "190",
+            "dob": "1994-03-17",
+            "school": "Louisville"
+         },
+         {
+            "playerId": "16",
+            "name": "Marcus Smart",
+            "team": "BOS",
+            "position": "PG",
+            "height": "6-4",
+            "weight": "220",
+            "dob": "1994-03-06",
+            "school": "Oklahoma State"
+         },
+         {
+            "playerId": "17",
+            "name": "Isaiah Thomas",
+            "team": "BOS",
+            "position": "PG",
+            "height": "5-9",
+            "weight": "185",
+            "dob": "1989-02-07",
+            "school": "Washington"
+         },
+         {
+            "playerId": "18",
+            "name": "James Young",
+            "team": "BOS",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "215",
+            "dob": "1995-08-16",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "19",
+            "name": "Tyler Zeller",
+            "team": "BOS",
+            "position": "C",
+            "height": "7-0",
+            "weight": "253",
+            "dob": "1990-01-17",
+            "school": "North Carolina"
+         },
+         {
+            "playerId": "20",
+            "name": "Beau Beech",
+            "team": "BKN",
+            "position": "SG",
+            "height": "6-9",
+            "weight": "215",
+            "dob": "1994-03-01",
+            "school": "North Florida"
+         },
+         {
+            "playerId": "21",
+            "name": "Anthony Bennett",
+            "team": "BKN",
+            "position": "PF",
+            "height": "6-8",
+            "weight": "235",
+            "dob": "1993-03-14",
+            "school": "Nevada-Las Vegas"
+         },
+         {
+            "playerId": "22",
+            "name": "Bojan Bogdanovic",
+            "team": "BKN",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "225",
+            "dob": "1989-04-18",
+            "school": "No College"
+         },
+         {
+            "playerId": "23",
+            "name": "Trevor Booker",
+            "team": "BKN",
+            "position": "PF",
+            "height": "6-8",
+            "weight": "228",
+            "dob": "1987-11-25",
+            "school": "Clemson"
+         },
+         {
+            "playerId": "24",
+            "name": "Chase Budinger",
+            "team": "BKN",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "215",
+            "dob": "1988-05-22",
+            "school": "Arizona"
+         },
+         {
+            "playerId": "25",
+            "name": "Randy Foye",
+            "team": "BKN",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "218",
+            "dob": "1983-09-24",
+            "school": "Villanova"
+         },
+         {
+            "playerId": "26",
+            "name": "Jorge Gutierrez",
+            "team": "BKN",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "195",
+            "dob": "1988-12-27",
+            "school": "California"
+         },
+         {
+            "playerId": "27",
+            "name": "Justin Hamilton",
+            "team": "BKN",
+            "position": "C",
+            "height": "7-0",
+            "weight": "255",
+            "dob": "1990-04-01",
+            "school": "Louisiana State"
+         },
+         {
+            "playerId": "28",
+            "name": "Joe Harris",
+            "team": "BKN",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "219",
+            "dob": "1991-09-06",
+            "school": "Virginia"
+         },
+         {
+            "playerId": "29",
+            "name": "Rondae Hollis-Jefferson",
+            "team": "BKN",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "214",
+            "dob": "1995-01-03",
+            "school": "Arizona"
+         },
+         {
+            "playerId": "30",
+            "name": "Sean Kilpatrick",
+            "team": "BKN",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "219",
+            "dob": "1990-01-06",
+            "school": "Cincinnati"
+         },
+         {
+            "playerId": "31",
+            "name": "Caris LeVert",
+            "team": "BKN",
+            "position": "SG",
+            "height": "6-7",
+            "weight": "203",
+            "dob": "1994-08-25",
+            "school": "Michigan"
+         },
+         {
+            "playerId": "32",
+            "name": "Jeremy Lin",
+            "team": "BKN",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "200",
+            "dob": "1988-08-23",
+            "school": "Harvard"
+         },
+         {
+            "playerId": "33",
+            "name": "Brook Lopez",
+            "team": "BKN",
+            "position": "C",
+            "height": "7-0",
+            "weight": "268",
+            "dob": "1988-04-01",
+            "school": "Stanford"
+         },
+         {
+            "playerId": "34",
+            "name": "Chris McCullough",
+            "team": "BKN",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "215",
+            "dob": "1995-02-05",
+            "school": "Syracuse"
+         },
+         {
+            "playerId": "35",
+            "name": "Egidijus Mockevicius",
+            "team": "BKN",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "237",
+            "dob": "1992-09-01",
+            "school": "Evansville"
+         },
+         {
+            "playerId": "36",
+            "name": "Luis Scola",
+            "team": "BKN",
+            "position": "C",
+            "height": "6-9",
+            "weight": "241",
+            "dob": "1980-04-30",
+            "school": "No College"
+         },
+         {
+            "playerId": "37",
+            "name": "Greivis Vasquez",
+            "team": "BKN",
+            "position": "PG",
+            "height": "6-6",
+            "weight": "217",
+            "dob": "1987-01-16",
+            "school": "Maryland"
+         },
+         {
+            "playerId": "38",
+            "name": "Isaiah Whitehead",
+            "team": "BKN",
+            "position": "PG",
+            "height": "6-4",
+            "weight": "213",
+            "dob": "1995-03-08",
+            "school": "Seton Hall"
+         },
+         {
+            "playerId": "39",
+            "name": "Lou Amundson",
+            "team": "NYK",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "220",
+            "dob": "1982-12-07",
+            "school": "Nevada-Las Vegas"
+         },
+         {
+            "playerId": "40",
+            "name": "Carmelo Anthony",
+            "team": "NYK",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "240",
+            "dob": "1984-05-29",
+            "school": "Syracuse"
+         },
+         {
+            "playerId": "41",
+            "name": "Ron Baker",
+            "team": "NYK",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "212",
+            "dob": "1993-03-30",
+            "school": "Wichita State"
+         },
+         {
+            "playerId": "42",
+            "name": "Willy Hernangomez",
+            "team": "NYK",
+            "position": "C",
+            "height": "6-10",
+            "weight": "240",
+            "dob": "1994-05-27",
+            "school": "No College"
+         },
+         {
+            "playerId": "43",
+            "name": "Justin Holiday",
+            "team": "NYK",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "185",
+            "dob": "1989-04-05",
+            "school": "Washington"
+         },
+         {
+            "playerId": "44",
+            "name": "Brandon Jennings",
+            "team": "NYK",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "169",
+            "dob": "1989-09-23",
+            "school": "No College"
+         },
+         {
+            "playerId": "45",
+            "name": "Mindaugas Kuzminskas",
+            "team": "NYK",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "216",
+            "dob": "1989-10-19",
+            "school": "No College"
+         },
+         {
+            "playerId": "46",
+            "name": "Courtney Lee",
+            "team": "NYK",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "200",
+            "dob": "1985-10-03",
+            "school": "Western Kentucky"
+         },
+         {
+            "playerId": "47",
+            "name": "Maurice Daly Ndour",
+            "team": "NYK",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "200",
+            "dob": "0000-00-00",
+            "school": "Ohio"
+         },
+         {
+            "playerId": "48",
+            "name": "Joakim Noah",
+            "team": "NYK",
+            "position": "C",
+            "height": "6-11",
+            "weight": "232",
+            "dob": "1985-02-25",
+            "school": "Florida"
+         },
+         {
+            "playerId": "49",
+            "name": "Kyle O'Quinn",
+            "team": "NYK",
+            "position": "C",
+            "height": "6-10",
+            "weight": "250",
+            "dob": "1990-03-26",
+            "school": "Norfolk State"
+         },
+         {
+            "playerId": "50",
+            "name": "Marshall Plumlee",
+            "team": "NYK",
+            "position": "C",
+            "height": "7-0",
+            "weight": "250",
+            "dob": "1992-07-14",
+            "school": "Duke"
+         },
+         {
+            "playerId": "51",
+            "name": "Kristaps Porzingis",
+            "team": "NYK",
+            "position": "PF",
+            "height": "7-3",
+            "weight": "240",
+            "dob": "1995-08-02",
+            "school": "No College"
+         },
+         {
+            "playerId": "52",
+            "name": "Chasson Randle",
+            "team": "PHI",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "185",
+            "dob": "1993-02-05",
+            "school": "Stanford"
+         },
+         {
+            "playerId": "53",
+            "name": "Derrick Rose",
+            "team": "NYK",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "190",
+            "dob": "1988-10-04",
+            "school": "Memphis"
+         },
+         {
+            "playerId": "54",
+            "name": "Lance Thomas",
+            "team": "NYK",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "235",
+            "dob": "1988-04-24",
+            "school": "Duke"
+         },
+         {
+            "playerId": "55",
+            "name": "J.P. Tokoto",
+            "team": "NYK",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "200",
+            "dob": "1993-09-15",
+            "school": "North Carolina"
+         },
+         {
+            "playerId": "56",
+            "name": "Sasha Vujacic",
+            "team": "NYK",
+            "position": "SG",
+            "height": "6-7",
+            "weight": "195",
+            "dob": "1984-03-08",
+            "school": "No College"
+         },
+         {
+            "playerId": "57",
+            "name": "Anthony Barber",
+            "team": "PHI",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "190",
+            "dob": "1994-07-25",
+            "school": "North Carolina State"
+         },
+         {
+            "playerId": "58",
+            "name": "Jerryd Bayless",
+            "team": "PHI",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "200",
+            "dob": "1988-08-20",
+            "school": "Arizona"
+         },
+         {
+            "playerId": "59",
+            "name": "Elton Brand",
+            "team": "PHI",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "254",
+            "dob": "1979-03-11",
+            "school": "Duke"
+         },
+         {
+            "playerId": "60",
+            "name": "Robert Covington",
+            "team": "PHI",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "215",
+            "dob": "1990-12-14",
+            "school": "Tennessee State"
+         },
+         {
+            "playerId": "61",
+            "name": "Joel Embiid",
+            "team": "PHI",
+            "position": "C",
+            "height": "7-0",
+            "weight": "250",
+            "dob": "1994-03-16",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "62",
+            "name": "Jerami Grant",
+            "team": "OKC",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "210",
+            "dob": "1994-03-12",
+            "school": "Syracuse"
+         },
+         {
+            "playerId": "63",
+            "name": "Gerald Henderson",
+            "team": "PHI",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "215",
+            "dob": "1987-12-09",
+            "school": "Duke"
+         },
+         {
+            "playerId": "64",
+            "name": "Richaun Holmes",
+            "team": "PHI",
+            "position": "C",
+            "height": "6-10",
+            "weight": "245",
+            "dob": "1993-10-15",
+            "school": "Bowling Green State"
+         },
+         {
+            "playerId": "65",
+            "name": "Shawn Long",
+            "team": "PHI",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "255",
+            "dob": "1993-01-29",
+            "school": "Louisiana-Lafayette"
+         },
+         {
+            "playerId": "66",
+            "name": "Timothe Luwawu-Cabarrot",
+            "team": "PHI",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "205",
+            "dob": "0000-00-00",
+            "school": ""
+         },
+         {
+            "playerId": "67",
+            "name": "T.J. McConnell",
+            "team": "PHI",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "200",
+            "dob": "1992-03-25",
+            "school": "Arizona"
+         },
+         {
+            "playerId": "68",
+            "name": "Nerlens Noel",
+            "team": "PHI",
+            "position": "PF",
+            "height": "6-11",
+            "weight": "228",
+            "dob": "1994-04-10",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "69",
+            "name": "Jahlil Okafor",
+            "team": "PHI",
+            "position": "C",
+            "height": "6-11",
+            "weight": "275",
+            "dob": "1995-12-15",
+            "school": "Duke"
+         },
+         {
+            "playerId": "70",
+            "name": "Brandon Paul",
+            "team": "PHI",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "200",
+            "dob": "1991-04-30",
+            "school": "Illinois"
+         },
+         {
+            "playerId": "71",
+            "name": "Sergio Rodriguez",
+            "team": "PHI",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "176",
+            "dob": "1986-06-12",
+            "school": "No College"
+         },
+         {
+            "playerId": "72",
+            "name": "Dario Saric",
+            "team": "PHI",
+            "position": "SF",
+            "height": "6-10",
+            "weight": "223",
+            "dob": "1994-04-08",
+            "school": "No College"
+         },
+         {
+            "playerId": "73",
+            "name": "Ben Simmons",
+            "team": "PHI",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "240",
+            "dob": "1996-07-20",
+            "school": "Louisiana State"
+         },
+         {
+            "playerId": "74",
+            "name": "Nik Stauskas",
+            "team": "PHI",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "205",
+            "dob": "1993-10-07",
+            "school": "Michigan"
+         },
+         {
+            "playerId": "75",
+            "name": "Hollis Thompson",
+            "team": "PHI",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "206",
+            "dob": "1991-04-03",
+            "school": "Georgetown"
+         },
+         {
+            "playerId": "76",
+            "name": "James Webb III",
+            "team": "PHI",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "202",
+            "dob": "0000-00-00",
+            "school": "Boise State"
+         },
+         {
+            "playerId": "77",
+            "name": "Bruno Caboclo",
+            "team": "TOR",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "205",
+            "dob": "1995-09-21",
+            "school": "No College"
+         },
+         {
+            "playerId": "78",
+            "name": "DeMarre Carroll",
+            "team": "TOR",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "212",
+            "dob": "1986-07-27",
+            "school": "Missouri"
+         },
+         {
+            "playerId": "79",
+            "name": "DeMar DeRozan",
+            "team": "TOR",
+            "position": "SG",
+            "height": "6-7",
+            "weight": "220",
+            "dob": "1989-08-07",
+            "school": "USC"
+         },
+         {
+            "playerId": "80",
+            "name": "Cory Joseph",
+            "team": "TOR",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "190",
+            "dob": "1991-08-20",
+            "school": "Texas"
+         },
+         {
+            "playerId": "81",
+            "name": "Kyle Lowry",
+            "team": "TOR",
+            "position": "PG",
+            "height": "6-0",
+            "weight": "205",
+            "dob": "1986-03-25",
+            "school": "Villanova"
+         },
+         {
+            "playerId": "82",
+            "name": "Yanick Moreira",
+            "team": "TOR",
+            "position": "C",
+            "height": "6-11",
+            "weight": "220",
+            "dob": "1991-07-31",
+            "school": "Southern Methodist"
+         },
+         {
+            "playerId": "83",
+            "name": "Lucas Nogueira",
+            "team": "TOR",
+            "position": "C",
+            "height": "7-0",
+            "weight": "220",
+            "dob": "1992-07-26",
+            "school": "No College"
+         },
+         {
+            "playerId": "84",
+            "name": "Patrick Patterson",
+            "team": "TOR",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "235",
+            "dob": "1989-03-14",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "85",
+            "name": "Jakob Poeltl",
+            "team": "TOR",
+            "position": "C",
+            "height": "7-0",
+            "weight": "230",
+            "dob": "1995-10-15",
+            "school": "Utah"
+         },
+         {
+            "playerId": "86",
+            "name": "Norman Powell",
+            "team": "TOR",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "215",
+            "dob": "1993-05-25",
+            "school": "UCLA"
+         },
+         {
+            "playerId": "87",
+            "name": "Terrence Ross",
+            "team": "TOR",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "195",
+            "dob": "1991-02-05",
+            "school": "Washington"
+         },
+         {
+            "playerId": "88",
+            "name": "Pascal Siakam",
+            "team": "TOR",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "230",
+            "dob": "1994-04-02",
+            "school": "New Mexico State"
+         },
+         {
+            "playerId": "89",
+            "name": "Jared Sullinger",
+            "team": "TOR",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "260",
+            "dob": "1992-03-04",
+            "school": "Ohio State"
+         },
+         {
+            "playerId": "90",
+            "name": "Jonas Valanciunas",
+            "team": "TOR",
+            "position": "C",
+            "height": "7-0",
+            "weight": "255",
+            "dob": "1992-05-06",
+            "school": "No College"
+         },
+         {
+            "playerId": "91",
+            "name": "Delon Wright",
+            "team": "TOR",
+            "position": "PG",
+            "height": "6-5",
+            "weight": "190",
+            "dob": "1992-04-26",
+            "school": "Utah"
+         },
+         {
+            "playerId": "92",
+            "name": "J.J. Avila",
+            "team": "CHI",
+            "position": "PF",
+            "height": "6-8",
+            "weight": "250",
+            "dob": "1991-10-11",
+            "school": "Colorado State"
+         },
+         {
+            "playerId": "93",
+            "name": "Jimmy Butler",
+            "team": "CHI",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "231",
+            "dob": "1989-09-14",
+            "school": "Marquette"
+         },
+         {
+            "playerId": "94",
+            "name": "Isaiah Canaan",
+            "team": "CHI",
+            "position": "PG",
+            "height": "6-0",
+            "weight": "201",
+            "dob": "1991-05-21",
+            "school": "Murray State"
+         },
+         {
+            "playerId": "95",
+            "name": "Spencer Dinwiddie",
+            "team": "BKN",
+            "position": "PG",
+            "height": "6-6",
+            "weight": "200",
+            "dob": "1993-04-06",
+            "school": "Colorado"
+         },
+         {
+            "playerId": "96",
+            "name": "Cristiano Felicio",
+            "team": "CHI",
+            "position": "C",
+            "height": "6-9",
+            "weight": "266",
+            "dob": "1992-07-07",
+            "school": "No College"
+         },
+         {
+            "playerId": "97",
+            "name": "Taj Gibson",
+            "team": "CHI",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "236",
+            "dob": "1985-06-24",
+            "school": "USC"
+         },
+         {
+            "playerId": "98",
+            "name": "Jerian Grant",
+            "team": "CHI",
+            "position": "PG",
+            "height": "6-4",
+            "weight": "198",
+            "dob": "1992-10-09",
+            "school": "Notre Dame"
+         },
+         {
+            "playerId": "99",
+            "name": "Vince Hunter",
+            "team": "MEM",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "200",
+            "dob": "1994-08-05",
+            "school": "Texas-El Paso"
+         },
+         {
+            "playerId": "100",
+            "name": "Robin Lopez",
+            "team": "CHI",
+            "position": "C",
+            "height": "7-0",
+            "weight": "255",
+            "dob": "1988-04-01",
+            "school": "Stanford"
+         },
+         {
+            "playerId": "101",
+            "name": "Doug McDermott",
+            "team": "CHI",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "219",
+            "dob": "1992-01-03",
+            "school": "Creighton"
+         },
+         {
+            "playerId": "102",
+            "name": "Nikola Mirotic",
+            "team": "CHI",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "238",
+            "dob": "1991-02-11",
+            "school": "No College"
+         },
+         {
+            "playerId": "103",
+            "name": "Bobby Portis",
+            "team": "CHI",
+            "position": "PF",
+            "height": "6-11",
+            "weight": "246",
+            "dob": "1995-02-10",
+            "school": "Arkansas"
+         },
+         {
+            "playerId": "104",
+            "name": "Rajon Rondo",
+            "team": "CHI",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "186",
+            "dob": "1986-02-22",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "105",
+            "name": "D'Vauntes Smith-Rivera",
+            "team": "CHI",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "215",
+            "dob": "1992-12-20",
+            "school": "Georgetown"
+         },
+         {
+            "playerId": "106",
+            "name": "Tony Snell",
+            "team": "MIL",
+            "position": "SG",
+            "height": "6-7",
+            "weight": "217",
+            "dob": "1991-11-10",
+            "school": "New Mexico"
+         },
+         {
+            "playerId": "107",
+            "name": "Denzel Valentine",
+            "team": "CHI",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "212",
+            "dob": "1993-11-16",
+            "school": "Michigan State"
+         },
+         {
+            "playerId": "108",
+            "name": "Dwyane Wade",
+            "team": "CHI",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "220",
+            "dob": "1982-01-17",
+            "school": "Marquette"
+         },
+         {
+            "playerId": "109",
+            "name": "Thomas Walkup",
+            "team": "CHI",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "195",
+            "dob": "1992-12-30",
+            "school": "Stephen F. Austin St."
+         },
+         {
+            "playerId": "110",
+            "name": "Paul Zipser",
+            "team": "CHI",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "210",
+            "dob": "1994-02-18",
+            "school": "No College"
+         },
+         {
+            "playerId": "111",
+            "name": "Chris Andersen",
+            "team": "CLE",
+            "position": "C",
+            "height": "6-10",
+            "weight": "245",
+            "dob": "1978-07-07",
+            "school": "Blinn Coll. TX (J.C.)"
+         },
+         {
+            "playerId": "112",
+            "name": "Markel Brown",
+            "team": "CLE",
+            "position": "SG",
+            "height": "6-3",
+            "weight": "190",
+            "dob": "1992-01-29",
+            "school": "Oklahoma State"
+         },
+         {
+            "playerId": "113",
+            "name": "Mike Dunleavy",
+            "team": "ATL",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "230",
+            "dob": "1980-09-15",
+            "school": "Duke"
+         },
+         {
+            "playerId": "114",
+            "name": "Kay Felder",
+            "team": "CLE",
+            "position": "PG",
+            "height": "5-9",
+            "weight": "176",
+            "dob": "1995-03-29",
+            "school": "Oakland University (MI)"
+         },
+         {
+            "playerId": "115",
+            "name": "Channing Frye",
+            "team": "CLE",
+            "position": "PF",
+            "height": "6-11",
+            "weight": "255",
+            "dob": "1983-05-17",
+            "school": "Arizona"
+         },
+         {
+            "playerId": "116",
+            "name": "John Holland",
+            "team": "BOS",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "205",
+            "dob": "1988-11-06",
+            "school": "Boston U."
+         },
+         {
+            "playerId": "117",
+            "name": "Jonathan Holmes",
+            "team": "CLE",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "242",
+            "dob": "1992-12-09",
+            "school": "Texas"
+         },
+         {
+            "playerId": "118",
+            "name": "Kyrie Irving",
+            "team": "CLE",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "193",
+            "dob": "1992-03-23",
+            "school": "Duke"
+         },
+         {
+            "playerId": "119",
+            "name": "LeBron James",
+            "team": "CLE",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "250",
+            "dob": "1984-12-30",
+            "school": "No College"
+         },
+         {
+            "playerId": "120",
+            "name": "Cory Jefferson",
+            "team": "CLE",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "218",
+            "dob": "1990-12-26",
+            "school": "Baylor"
+         },
+         {
+            "playerId": "121",
+            "name": "Richard Jefferson",
+            "team": "CLE",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "233",
+            "dob": "1980-06-21",
+            "school": "Arizona"
+         },
+         {
+            "playerId": "122",
+            "name": "Dahntay Jones",
+            "team": "CLE",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "225",
+            "dob": "0000-00-00",
+            "school": "Duke"
+         },
+         {
+            "playerId": "123",
+            "name": "James Jones",
+            "team": "CLE",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "218",
+            "dob": "1980-10-04",
+            "school": "Miami (Fla.)"
+         },
+         {
+            "playerId": "124",
+            "name": "DeAndre Liggins",
+            "team": "CLE",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "209",
+            "dob": "1988-03-31",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "125",
+            "name": "Kevin Love",
+            "team": "CLE",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "251",
+            "dob": "1988-09-07",
+            "school": "UCLA"
+         },
+         {
+            "playerId": "126",
+            "name": "Jordan McRae",
+            "team": "CLE",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "179",
+            "dob": "1991-03-28",
+            "school": "Tennessee"
+         },
+         {
+            "playerId": "127",
+            "name": "Eric Moreland",
+            "team": "CLE",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "238",
+            "dob": "0000-00-00",
+            "school": "Oregon State"
+         },
+         {
+            "playerId": "128",
+            "name": "Iman Shumpert",
+            "team": "CLE",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "220",
+            "dob": "1990-06-26",
+            "school": "Georgia Tech"
+         },
+         {
+            "playerId": "129",
+            "name": "Tristan Thompson",
+            "team": "CLE",
+            "position": "C",
+            "height": "6-9",
+            "weight": "238",
+            "dob": "1991-03-13",
+            "school": "Texas"
+         },
+         {
+            "playerId": "130",
+            "name": "Mo Williams",
+            "team": "ATL",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "198",
+            "dob": "1982-12-19",
+            "school": "Alabama"
+         },
+         {
+            "playerId": "131",
+            "name": "Aron Baynes",
+            "team": "DET",
+            "position": "C",
+            "height": "6-10",
+            "weight": "260",
+            "dob": "1986-12-09",
+            "school": "Washington State"
+         },
+         {
+            "playerId": "132",
+            "name": "Lorenzo Brown",
+            "team": "DET",
+            "position": "PG",
+            "height": "6-5",
+            "weight": "189",
+            "dob": "1990-08-26",
+            "school": "North Carolina State"
+         },
+         {
+            "playerId": "133",
+            "name": "Reggie Bullock",
+            "team": "DET",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "205",
+            "dob": "1991-03-16",
+            "school": "North Carolina"
+         },
+         {
+            "playerId": "134",
+            "name": "Kentavious Caldwell-Pope",
+            "team": "DET",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "205",
+            "dob": "1993-02-18",
+            "school": "Georgia"
+         },
+         {
+            "playerId": "135",
+            "name": "Andre Drummond",
+            "team": "DET",
+            "position": "C",
+            "height": "6-11",
+            "weight": "279",
+            "dob": "1993-08-10",
+            "school": "Connecticut"
+         },
+         {
+            "playerId": "136",
+            "name": "Henry Ellenson",
+            "team": "DET",
+            "position": "PF",
+            "height": "6-11",
+            "weight": "245",
+            "dob": "1997-01-13",
+            "school": "Marquette"
+         },
+         {
+            "playerId": "137",
+            "name": "Trey Freeman",
+            "team": "DET",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "180",
+            "dob": "1992-10-12",
+            "school": "Old Dominion"
+         },
+         {
+            "playerId": "138",
+            "name": "Michael Gbinije",
+            "team": "DET",
+            "position": "SG",
+            "height": "6-7",
+            "weight": "200",
+            "dob": "1992-06-05",
+            "school": "Syracuse"
+         },
+         {
+            "playerId": "139",
+            "name": "Tobias Harris",
+            "team": "DET",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "235",
+            "dob": "1992-07-15",
+            "school": "Tennessee"
+         },
+         {
+            "playerId": "140",
+            "name": "Darrun Hilliard",
+            "team": "DET",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "205",
+            "dob": "1993-04-13",
+            "school": "Villanova"
+         },
+         {
+            "playerId": "141",
+            "name": "Reggie Jackson",
+            "team": "DET",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "208",
+            "dob": "1990-04-16",
+            "school": "Boston College"
+         },
+         {
+            "playerId": "142",
+            "name": "Stanley Johnson",
+            "team": "DET",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "245",
+            "dob": "1996-05-29",
+            "school": "Arizona"
+         },
+         {
+            "playerId": "143",
+            "name": "Nikola Jovanovic",
+            "team": "DET",
+            "position": "F",
+            "height": "6-11",
+            "weight": "235",
+            "dob": "1994-01-06",
+            "school": "USC"
+         },
+         {
+            "playerId": "144",
+            "name": "Jon Leuer",
+            "team": "DET",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "228",
+            "dob": "1989-05-14",
+            "school": "Wisconsin"
+         },
+         {
+            "playerId": "145",
+            "name": "Boban Marjanovic",
+            "team": "DET",
+            "position": "C",
+            "height": "7-3",
+            "weight": "290",
+            "dob": "1988-08-15",
+            "school": "No College"
+         },
+         {
+            "playerId": "146",
+            "name": "Ray McCallum",
+            "team": "DET",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "190",
+            "dob": "0000-00-00",
+            "school": "Detroit"
+         },
+         {
+            "playerId": "147",
+            "name": "Marcus Morris",
+            "team": "DET",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "235",
+            "dob": "1989-09-02",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "148",
+            "name": "Ish Smith",
+            "team": "DET",
+            "position": "PG",
+            "height": "6-0",
+            "weight": "175",
+            "dob": "1988-07-05",
+            "school": "Wake Forest"
+         },
+         {
+            "playerId": "149",
+            "name": "Lavoy Allen",
+            "team": "IND",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "260",
+            "dob": "1989-02-04",
+            "school": "Temple"
+         },
+         {
+            "playerId": "150",
+            "name": "Aaron Brooks",
+            "team": "IND",
+            "position": "PG",
+            "height": "6-0",
+            "weight": "161",
+            "dob": "1985-01-14",
+            "school": "Oregon"
+         },
+         {
+            "playerId": "151",
+            "name": "Rakeem Christmas",
+            "team": "IND",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "250",
+            "dob": "1991-12-01",
+            "school": "Syracuse"
+         },
+         {
+            "playerId": "152",
+            "name": "Monta Ellis",
+            "team": "IND",
+            "position": "SG",
+            "height": "6-3",
+            "weight": "185",
+            "dob": "1985-10-26",
+            "school": "No College"
+         },
+         {
+            "playerId": "153",
+            "name": "Jeremy Evans",
+            "team": "DAL",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "200",
+            "dob": "1987-10-24",
+            "school": "Western Kentucky"
+         },
+         {
+            "playerId": "154",
+            "name": "Paul George",
+            "team": "IND",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "220",
+            "dob": "1990-05-02",
+            "school": "Fresno State"
+         },
+         {
+            "playerId": "155",
+            "name": "Al Jefferson",
+            "team": "IND",
+            "position": "C",
+            "height": "6-10",
+            "weight": "289",
+            "dob": "1985-01-04",
+            "school": "No College"
+         },
+         {
+            "playerId": "156",
+            "name": "C.J. Miles",
+            "team": "IND",
+            "position": "SF",
+            "height": "6-6",
+            "weight": "225",
+            "dob": "1987-03-18",
+            "school": "No College"
+         },
+         {
+            "playerId": "157",
+            "name": "Georges Niang",
+            "team": "IND",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "230",
+            "dob": "1993-06-17",
+            "school": "Iowa State"
+         },
+         {
+            "playerId": "158",
+            "name": "Alex Poythress",
+            "team": "IND",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "238",
+            "dob": "1993-09-06",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "159",
+            "name": "Glenn Robinson III",
+            "team": "IND",
+            "position": "SF",
+            "height": "6-6",
+            "weight": "222",
+            "dob": "1994-01-08",
+            "school": "Michigan"
+         },
+         {
+            "playerId": "160",
+            "name": "Kevin Seraphin",
+            "team": "IND",
+            "position": "C",
+            "height": "6-10",
+            "weight": "278",
+            "dob": "1989-12-07",
+            "school": "No College"
+         },
+         {
+            "playerId": "161",
+            "name": "Julyan Stone",
+            "team": "IND",
+            "position": "PG",
+            "height": "6-6",
+            "weight": "200",
+            "dob": "1988-12-07",
+            "school": "Texas-El Paso"
+         },
+         {
+            "playerId": "162",
+            "name": "Rodney Stuckey",
+            "team": "IND",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "205",
+            "dob": "1986-04-21",
+            "school": "Eastern Washington"
+         },
+         {
+            "playerId": "163",
+            "name": "Jeff Teague",
+            "team": "IND",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "186",
+            "dob": "1988-06-10",
+            "school": "Wake Forest"
+         },
+         {
+            "playerId": "164",
+            "name": "Myles Turner",
+            "team": "IND",
+            "position": "C",
+            "height": "6-11",
+            "weight": "243",
+            "dob": "1996-03-24",
+            "school": "Texas"
+         },
+         {
+            "playerId": "165",
+            "name": "Joe Young",
+            "team": "IND",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "180",
+            "dob": "0000-00-00",
+            "school": "Oregon"
+         },
+         {
+            "playerId": "166",
+            "name": "Thaddeus Young",
+            "team": "IND",
+            "position": "PF",
+            "height": "6-8",
+            "weight": "221",
+            "dob": "1988-06-21",
+            "school": "Georgia Tech"
+         },
+         {
+            "playerId": "167",
+            "name": "Nick Zeisloft",
+            "team": "IND",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "185",
+            "dob": "1992-12-18",
+            "school": "Indiana"
+         },
+         {
+            "playerId": "168",
+            "name": "Giannis Antetokounmpo",
+            "team": "MIL",
+            "position": "SF",
+            "height": "6-11",
+            "weight": "222",
+            "dob": "1994-12-06",
+            "school": "No College"
+         },
+         {
+            "playerId": "169",
+            "name": "Michael Beasley",
+            "team": "MIL",
+            "position": "SF",
+            "height": "6-10",
+            "weight": "235",
+            "dob": "1989-01-09",
+            "school": "Kansas State"
+         },
+         {
+            "playerId": "170",
+            "name": "Malcolm Brogdon",
+            "team": "MIL",
+            "position": "PG",
+            "height": "6-5",
+            "weight": "215",
+            "dob": "1992-12-11",
+            "school": "Virginia"
+         },
+         {
+            "playerId": "171",
+            "name": "Jabari Brown",
+            "team": "MIL",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "214",
+            "dob": "0000-00-00",
+            "school": "Missouri"
+         },
+         {
+            "playerId": "172",
+            "name": "Michael Carter-Williams",
+            "team": "CHI",
+            "position": "PG",
+            "height": "6-6",
+            "weight": "190",
+            "dob": "1991-10-10",
+            "school": "Syracuse"
+         },
+         {
+            "playerId": "173",
+            "name": "Matthew Dellavedova",
+            "team": "MIL",
+            "position": "PG",
+            "height": "6-4",
+            "weight": "198",
+            "dob": "1990-09-08",
+            "school": "St. Mary's (CA)"
+         },
+         {
+            "playerId": "174",
+            "name": "John Henson",
+            "team": "MIL",
+            "position": "C",
+            "height": "6-11",
+            "weight": "229",
+            "dob": "1990-12-28",
+            "school": "North Carolina"
+         },
+         {
+            "playerId": "175",
+            "name": "Orlando Johnson",
+            "team": "MIL",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "220",
+            "dob": "1989-03-11",
+            "school": "California-Santa Barbara"
+         },
+         {
+            "playerId": "176",
+            "name": "Thon Maker",
+            "team": "MIL",
+            "position": "C",
+            "height": "7-1",
+            "weight": "223",
+            "dob": "1997-02-25",
+            "school": "No College"
+         },
+         {
+            "playerId": "177",
+            "name": "Khris Middleton",
+            "team": "MIL",
+            "position": "SG",
+            "height": "6-8",
+            "weight": "234",
+            "dob": "1991-08-12",
+            "school": "Texas A M"
+         },
+         {
+            "playerId": "178",
+            "name": "Greg Monroe",
+            "team": "MIL",
+            "position": "C",
+            "height": "6-11",
+            "weight": "265",
+            "dob": "1990-06-04",
+            "school": "Georgetown"
+         },
+         {
+            "playerId": "179",
+            "name": "Steve Novak",
+            "team": "MIL",
+            "position": "SF",
+            "height": "6-10",
+            "weight": "225",
+            "dob": "1983-06-13",
+            "school": "Marquette"
+         },
+         {
+            "playerId": "180",
+            "name": "J.J. O'Brien",
+            "team": "MIL",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "220",
+            "dob": "0000-00-00",
+            "school": "San Diego State"
+         },
+         {
+            "playerId": "181",
+            "name": "Jabari Parker",
+            "team": "MIL",
+            "position": "PF",
+            "height": "6-8",
+            "weight": "250",
+            "dob": "1995-03-15",
+            "school": "Duke"
+         },
+         {
+            "playerId": "182",
+            "name": "Miles Plumlee",
+            "team": "CHA",
+            "position": "C",
+            "height": "6-11",
+            "weight": "249",
+            "dob": "1988-09-01",
+            "school": "Duke"
+         },
+         {
+            "playerId": "183",
+            "name": "Jaleel Roberts",
+            "team": "MIL",
+            "position": "C",
+            "height": "7-1",
+            "weight": "225",
+            "dob": "1992-10-14",
+            "school": "UNC-Asheville"
+         },
+         {
+            "playerId": "184",
+            "name": "Mirza Teletovic",
+            "team": "MIL",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "245",
+            "dob": "1985-09-17",
+            "school": "No College"
+         },
+         {
+            "playerId": "185",
+            "name": "Jason Terry",
+            "team": "MIL",
+            "position": "SG",
+            "height": "6-2",
+            "weight": "185",
+            "dob": "1977-09-15",
+            "school": "Arizona"
+         },
+         {
+            "playerId": "186",
+            "name": "Rashad Vaughn",
+            "team": "MIL",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "202",
+            "dob": "1996-08-16",
+            "school": "Nevada-Las Vegas"
+         },
+         {
+            "playerId": "187",
+            "name": "Kent Bazemore",
+            "team": "ATL",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "201",
+            "dob": "1989-07-01",
+            "school": "Old Dominion"
+         },
+         {
+            "playerId": "188",
+            "name": "DeAndre Bembry",
+            "team": "ATL",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "210",
+            "dob": "0000-00-00",
+            "school": "Saint Joseph's"
+         },
+         {
+            "playerId": "189",
+            "name": "Will Bynum",
+            "team": "ATL",
+            "position": "PG",
+            "height": "6-0",
+            "weight": "185",
+            "dob": "1983-01-04",
+            "school": "Georgia Tech"
+         },
+         {
+            "playerId": "190",
+            "name": "Matt Costello",
+            "team": "ATL",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "245",
+            "dob": "1993-08-05",
+            "school": "Michigan State"
+         },
+         {
+            "playerId": "191",
+            "name": "Malcolm Delaney",
+            "team": "ATL",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "170",
+            "dob": "1989-03-11",
+            "school": "Virginia Tech"
+         },
+         {
+            "playerId": "192",
+            "name": "Tim Hardaway Jr.",
+            "team": "ATL",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "205",
+            "dob": "1992-03-16",
+            "school": "Michigan"
+         },
+         {
+            "playerId": "193",
+            "name": "Dwight Howard",
+            "team": "ATL",
+            "position": "C",
+            "height": "6-11",
+            "weight": "265",
+            "dob": "1985-12-08",
+            "school": "No College"
+         },
+         {
+            "playerId": "194",
+            "name": "Kris Humphries",
+            "team": "ATL",
+            "position": "C",
+            "height": "6-9",
+            "weight": "235",
+            "dob": "1985-02-06",
+            "school": "Minnesota"
+         },
+         {
+            "playerId": "195",
+            "name": "Jarrett Jack",
+            "team": "BKN",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "200",
+            "dob": "1983-10-28",
+            "school": "Georgia Tech"
+         },
+         {
+            "playerId": "196",
+            "name": "Ryan Kelly",
+            "team": "ATL",
+            "position": "PF",
+            "height": "6-11",
+            "weight": "230",
+            "dob": "1991-04-09",
+            "school": "Duke"
+         },
+         {
+            "playerId": "197",
+            "name": "Kyle Korver",
+            "team": "CLE",
+            "position": "SG",
+            "height": "6-7",
+            "weight": "212",
+            "dob": "1981-03-17",
+            "school": "Creighton"
+         },
+         {
+            "playerId": "198",
+            "name": "Paul Millsap",
+            "team": "ATL",
+            "position": "PF",
+            "height": "6-8",
+            "weight": "246",
+            "dob": "1985-02-10",
+            "school": "Louisiana Tech"
+         },
+         {
+            "playerId": "199",
+            "name": "Mike Muscala",
+            "team": "ATL",
+            "position": "PF",
+            "height": "6-11",
+            "weight": "240",
+            "dob": "1991-07-01",
+            "school": "Bucknell"
+         },
+         {
+            "playerId": "200",
+            "name": "Taurean Prince",
+            "team": "ATL",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "220",
+            "dob": "0000-00-00",
+            "school": "Baylor"
+         },
+         {
+            "playerId": "201",
+            "name": "Dennis Schroder",
+            "team": "ATL",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "172",
+            "dob": "1993-09-15",
+            "school": "No College"
+         },
+         {
+            "playerId": "202",
+            "name": "Mike Scott",
+            "team": "ATL",
+            "position": "PF",
+            "height": "6-8",
+            "weight": "237",
+            "dob": "1988-07-16",
+            "school": "Virginia"
+         },
+         {
+            "playerId": "203",
+            "name": "Thabo Sefolosha",
+            "team": "ATL",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "220",
+            "dob": "1984-05-02",
+            "school": "No College"
+         },
+         {
+            "playerId": "204",
+            "name": "Richard Solomon",
+            "team": "ATL",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "235",
+            "dob": "1992-06-18",
+            "school": "California"
+         },
+         {
+            "playerId": "205",
+            "name": "Tiago Splitter",
+            "team": "ATL",
+            "position": "C",
+            "height": "6-11",
+            "weight": "245",
+            "dob": "1985-01-01",
+            "school": "No College"
+         },
+         {
+            "playerId": "206",
+            "name": "Walter Tavares",
+            "team": "ATL",
+            "position": "C",
+            "height": "7-3",
+            "weight": "260",
+            "dob": "1992-03-22",
+            "school": "No College"
+         },
+         {
+            "playerId": "207",
+            "name": "Andrew Andrews",
+            "team": "CHA",
+            "position": "G",
+            "height": "6-2",
+            "weight": "195",
+            "dob": "1993-05-25",
+            "school": "Washington"
+         },
+         {
+            "playerId": "208",
+            "name": "Nicolas Batum",
+            "team": "CHA",
+            "position": "SG",
+            "height": "6-8",
+            "weight": "200",
+            "dob": "1988-12-14",
+            "school": "No College"
+         },
+         {
+            "playerId": "209",
+            "name": "Marco Belinelli",
+            "team": "CHA",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "210",
+            "dob": "1986-03-25",
+            "school": "No College"
+         },
+         {
+            "playerId": "210",
+            "name": "Treveon Graham",
+            "team": "CHA",
+            "position": "SF",
+            "height": "6-6",
+            "weight": "226",
+            "dob": "1993-10-28",
+            "school": "Virginia Commonwealth"
+         },
+         {
+            "playerId": "211",
+            "name": "Aaron Harrison",
+            "team": "CHA",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "210",
+            "dob": "1994-10-28",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "212",
+            "name": "Spencer Hawes",
+            "team": "MIL",
+            "position": "PF",
+            "height": "7-1",
+            "weight": "245",
+            "dob": "1988-04-28",
+            "school": "Washington"
+         },
+         {
+            "playerId": "213",
+            "name": "Roy Hibbert",
+            "team": "MIL",
+            "position": "C",
+            "height": "7-2",
+            "weight": "270",
+            "dob": "1986-12-11",
+            "school": "Georgetown"
+         },
+         {
+            "playerId": "214",
+            "name": "Frank Kaminsky III",
+            "team": "CHA",
+            "position": "PF",
+            "height": "7-0",
+            "weight": "240",
+            "dob": "1993-04-04",
+            "school": "Wisconsin"
+         },
+         {
+            "playerId": "215",
+            "name": "Michael Kidd-Gilchrist",
+            "team": "CHA",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "232",
+            "dob": "1993-09-26",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "216",
+            "name": "Jeremy Lamb",
+            "team": "CHA",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "185",
+            "dob": "1992-05-30",
+            "school": "Connecticut"
+         },
+         {
+            "playerId": "217",
+            "name": "Brian Roberts",
+            "team": "CHA",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "173",
+            "dob": "1985-12-03",
+            "school": "Dayton"
+         },
+         {
+            "playerId": "218",
+            "name": "Ramon Sessions",
+            "team": "CHA",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "190",
+            "dob": "1986-04-11",
+            "school": "Nevada"
+         },
+         {
+            "playerId": "219",
+            "name": "Rasheed Sulaimon",
+            "team": "CHA",
+            "position": "G",
+            "height": "6-4",
+            "weight": "190",
+            "dob": "1994-03-09",
+            "school": "Maryland"
+         },
+         {
+            "playerId": "220",
+            "name": "Mike Tobey",
+            "team": "CHA",
+            "position": "C",
+            "height": "7-0",
+            "weight": "260",
+            "dob": "1994-10-10",
+            "school": "Virginia"
+         },
+         {
+            "playerId": "221",
+            "name": "Kemba Walker",
+            "team": "CHA",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "184",
+            "dob": "1990-05-08",
+            "school": "Connecticut"
+         },
+         {
+            "playerId": "222",
+            "name": "Marvin Williams",
+            "team": "CHA",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "237",
+            "dob": "1986-06-19",
+            "school": "North Carolina"
+         },
+         {
+            "playerId": "223",
+            "name": "Christian Wood",
+            "team": "CHA",
+            "position": "PF",
+            "height": "6-11",
+            "weight": "220",
+            "dob": "1995-09-27",
+            "school": "Nevada-Las Vegas"
+         },
+         {
+            "playerId": "224",
+            "name": "Cody Zeller",
+            "team": "CHA",
+            "position": "C",
+            "height": "7-0",
+            "weight": "240",
+            "dob": "1992-10-05",
+            "school": "Indiana"
+         },
+         {
+            "playerId": "225",
+            "name": "Luke Babbitt",
+            "team": "MIA",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "225",
+            "dob": "1989-06-20",
+            "school": "Nevada"
+         },
+         {
+            "playerId": "226",
+            "name": "Keith Benson",
+            "team": "MIA",
+            "position": "PF",
+            "height": "6-11",
+            "weight": "240",
+            "dob": "1988-08-13",
+            "school": "Oakland University (MI)"
+         },
+         {
+            "playerId": "227",
+            "name": "Chris Bosh",
+            "team": "MIA",
+            "position": "PF",
+            "height": "6-11",
+            "weight": "235",
+            "dob": "1984-03-24",
+            "school": "Georgia Tech"
+         },
+         {
+            "playerId": "228",
+            "name": "Goran Dragic",
+            "team": "MIA",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "190",
+            "dob": "1986-05-06",
+            "school": "No College"
+         },
+         {
+            "playerId": "229",
+            "name": "Wayne Ellington",
+            "team": "MIA",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "200",
+            "dob": "1987-11-29",
+            "school": "North Carolina"
+         },
+         {
+            "playerId": "230",
+            "name": "Udonis Haslem",
+            "team": "MIA",
+            "position": "PF",
+            "height": "6-8",
+            "weight": "235",
+            "dob": "1980-06-09",
+            "school": "Florida"
+         },
+         {
+            "playerId": "231",
+            "name": "Stefan Jankovic",
+            "team": "MIA",
+            "position": "PF",
+            "height": "6-11",
+            "weight": "234",
+            "dob": "1993-08-04",
+            "school": "Hawaii"
+         },
+         {
+            "playerId": "232",
+            "name": "James Johnson",
+            "team": "MIA",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "250",
+            "dob": "1987-02-20",
+            "school": "Wake Forest"
+         },
+         {
+            "playerId": "233",
+            "name": "Tyler Johnson",
+            "team": "MIA",
+            "position": "PG",
+            "height": "6-4",
+            "weight": "186",
+            "dob": "1992-05-07",
+            "school": "Fresno State"
+         },
+         {
+            "playerId": "234",
+            "name": "Rodney McGruder",
+            "team": "MIA",
+            "position": "SF",
+            "height": "6-4",
+            "weight": "205",
+            "dob": "1991-07-29",
+            "school": "Kansas State"
+         },
+         {
+            "playerId": "235",
+            "name": "Josh McRoberts",
+            "team": "MIA",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "240",
+            "dob": "1987-02-28",
+            "school": "Duke"
+         },
+         {
+            "playerId": "236",
+            "name": "Willie Reed",
+            "team": "MIA",
+            "position": "C",
+            "height": "6-10",
+            "weight": "220",
+            "dob": "1990-05-16",
+            "school": "St. Louis"
+         },
+         {
+            "playerId": "237",
+            "name": "Josh Richardson",
+            "team": "MIA",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "200",
+            "dob": "1993-09-15",
+            "school": "Tennessee"
+         },
+         {
+            "playerId": "238",
+            "name": "Beno Udrih",
+            "team": "DET",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "205",
+            "dob": "1982-07-05",
+            "school": "No College"
+         },
+         {
+            "playerId": "239",
+            "name": "Dion Waiters",
+            "team": "MIA",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "220",
+            "dob": "1991-12-10",
+            "school": "Syracuse"
+         },
+         {
+            "playerId": "240",
+            "name": "Briante Weber",
+            "team": "MIA",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "165",
+            "dob": "1992-12-29",
+            "school": "Virginia Commonwealth"
+         },
+         {
+            "playerId": "241",
+            "name": "Okaro White",
+            "team": "MIA",
+            "position": "PF",
+            "height": "6-8",
+            "weight": "204",
+            "dob": "1992-08-13",
+            "school": "Florida State"
+         },
+         {
+            "playerId": "242",
+            "name": "Hassan Whiteside",
+            "team": "MIA",
+            "position": "C",
+            "height": "7-0",
+            "weight": "265",
+            "dob": "1989-06-13",
+            "school": "Marshall"
+         },
+         {
+            "playerId": "243",
+            "name": "Derrick Williams",
+            "team": "MIA",
+            "position": "PF",
+            "height": "6-8",
+            "weight": "240",
+            "dob": "1991-05-25",
+            "school": "Arizona"
+         },
+         {
+            "playerId": "244",
+            "name": "Justise Winslow",
+            "team": "MIA",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "225",
+            "dob": "1996-03-26",
+            "school": "Duke"
+         },
+         {
+            "playerId": "245",
+            "name": "Cliff Alexander",
+            "team": "POR",
+            "position": "PF",
+            "height": "6-8",
+            "weight": "245",
+            "dob": "1995-11-16",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "246",
+            "name": "D.J. Augustin",
+            "team": "ORL",
+            "position": "PG",
+            "height": "6-0",
+            "weight": "183",
+            "dob": "1987-11-10",
+            "school": "Texas"
+         },
+         {
+            "playerId": "247",
+            "name": "Bismack Biyombo",
+            "team": "ORL",
+            "position": "C",
+            "height": "6-9",
+            "weight": "255",
+            "dob": "1992-08-28",
+            "school": "No College"
+         },
+         {
+            "playerId": "248",
+            "name": "Branden Dawson",
+            "team": "LAC",
+            "position": "SF",
+            "height": "6-6",
+            "weight": "225",
+            "dob": "1993-02-01",
+            "school": "Michigan State"
+         },
+         {
+            "playerId": "249",
+            "name": "Evan Fournier",
+            "team": "ORL",
+            "position": "SG",
+            "height": "6-7",
+            "weight": "205",
+            "dob": "1992-10-29",
+            "school": "No College"
+         },
+         {
+            "playerId": "250",
+            "name": "Aaron Gordon",
+            "team": "ORL",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "220",
+            "dob": "1995-09-16",
+            "school": "Arizona"
+         },
+         {
+            "playerId": "251",
+            "name": "Jeff Green",
+            "team": "ORL",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "235",
+            "dob": "1986-08-28",
+            "school": "Georgetown"
+         },
+         {
+            "playerId": "252",
+            "name": "Mario Hezonja",
+            "team": "ORL",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "218",
+            "dob": "1995-02-25",
+            "school": "No College"
+         },
+         {
+            "playerId": "253",
+            "name": "Serge Ibaka",
+            "team": "ORL",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "235",
+            "dob": "1989-09-18",
+            "school": "No College"
+         },
+         {
+            "playerId": "254",
+            "name": "Nick Johnson",
+            "team": "ORL",
+            "position": "SG",
+            "height": "6-3",
+            "weight": "202",
+            "dob": "1992-12-22",
+            "school": "Arizona"
+         },
+         {
+            "playerId": "255",
+            "name": "Jodie Meeks",
+            "team": "ORL",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "210",
+            "dob": "1987-08-21",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "256",
+            "name": "Kevin Murphy",
+            "team": "ORL",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "185",
+            "dob": "1990-03-06",
+            "school": "Tennessee Tech"
+         },
+         {
+            "playerId": "257",
+            "name": "Arinze Onuaku",
+            "team": "ORL",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "255",
+            "dob": "1987-07-13",
+            "school": "Syracuse"
+         },
+         {
+            "playerId": "258",
+            "name": "Elfrid Payton",
+            "team": "ORL",
+            "position": "PG",
+            "height": "6-4",
+            "weight": "185",
+            "dob": "1994-02-22",
+            "school": "Louisiana-Lafayette"
+         },
+         {
+            "playerId": "259",
+            "name": "Damjan Rudez",
+            "team": "ORL",
+            "position": "SF",
+            "height": "6-10",
+            "weight": "228",
+            "dob": "1986-06-17",
+            "school": "No College"
+         },
+         {
+            "playerId": "260",
+            "name": "Nikola Vucevic",
+            "team": "ORL",
+            "position": "C",
+            "height": "7-0",
+            "weight": "260",
+            "dob": "1990-10-24",
+            "school": "USC"
+         },
+         {
+            "playerId": "261",
+            "name": "C.J. Watson",
+            "team": "ORL",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "175",
+            "dob": "1984-04-17",
+            "school": "Tennessee"
+         },
+         {
+            "playerId": "262",
+            "name": "C.J. Wilcox",
+            "team": "ORL",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "195",
+            "dob": "1990-12-30",
+            "school": "Washington"
+         },
+         {
+            "playerId": "263",
+            "name": "Stephen Zimmerman Jr.",
+            "team": "ORL",
+            "position": "C",
+            "height": "7-0",
+            "weight": "240",
+            "dob": "0000-00-00",
+            "school": "UNLV"
+         },
+         {
+            "playerId": "264",
+            "name": "Bradley Beal",
+            "team": "WAS",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "207",
+            "dob": "1993-06-28",
+            "school": "Florida"
+         },
+         {
+            "playerId": "265",
+            "name": "Trey Burke",
+            "team": "WAS",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "191",
+            "dob": "1992-11-12",
+            "school": "Michigan"
+         },
+         {
+            "playerId": "266",
+            "name": "Jarell Eddie",
+            "team": "WAS",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "218",
+            "dob": "1991-10-30",
+            "school": "Virginia Tech"
+         },
+         {
+            "playerId": "267",
+            "name": "Marcin Gortat",
+            "team": "WAS",
+            "position": "C",
+            "height": "6-11",
+            "weight": "240",
+            "dob": "1984-02-17",
+            "school": "No College"
+         },
+         {
+            "playerId": "268",
+            "name": "Ian Mahinmi",
+            "team": "WAS",
+            "position": "C",
+            "height": "6-11",
+            "weight": "250",
+            "dob": "1986-11-05",
+            "school": "No College"
+         },
+         {
+            "playerId": "269",
+            "name": "Markieff Morris",
+            "team": "WAS",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "245",
+            "dob": "1989-09-02",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "270",
+            "name": "Andrew Nicholson",
+            "team": "WAS",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "250",
+            "dob": "1989-12-08",
+            "school": "St. Bonaventure"
+         },
+         {
+            "playerId": "271",
+            "name": "Daniel Ochefu",
+            "team": "WAS",
+            "position": "C",
+            "height": "6-11",
+            "weight": "245",
+            "dob": "1993-12-15",
+            "school": "Villanova"
+         },
+         {
+            "playerId": "272",
+            "name": "Kelly Oubre Jr.",
+            "team": "WAS",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "205",
+            "dob": "1995-12-09",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "273",
+            "name": "Otto Porter Jr.",
+            "team": "WAS",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "198",
+            "dob": "1993-06-03",
+            "school": "Georgetown"
+         },
+         {
+            "playerId": "274",
+            "name": "Tomas Satoransky",
+            "team": "WAS",
+            "position": "SG",
+            "height": "6-7",
+            "weight": "210",
+            "dob": "1991-10-30",
+            "school": "No College"
+         },
+         {
+            "playerId": "275",
+            "name": "Jason Smith",
+            "team": "WAS",
+            "position": "PF",
+            "height": "7-0",
+            "weight": "240",
+            "dob": "1986-03-02",
+            "school": "Colorado State"
+         },
+         {
+            "playerId": "276",
+            "name": "Marcus Thornton",
+            "team": "WAS",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "205",
+            "dob": "1987-06-05",
+            "school": "Louisiana State"
+         },
+         {
+            "playerId": "277",
+            "name": "John Wall",
+            "team": "WAS",
+            "position": "PG",
+            "height": "6-4",
+            "weight": "195",
+            "dob": "1990-09-06",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "278",
+            "name": "Darrell Arthur",
+            "team": "DEN",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "235",
+            "dob": "1988-03-25",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "279",
+            "name": "Will Barton",
+            "team": "DEN",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "175",
+            "dob": "1991-01-06",
+            "school": "Memphis"
+         },
+         {
+            "playerId": "280",
+            "name": "Malik Beasley",
+            "team": "DEN",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "196",
+            "dob": "1996-11-26",
+            "school": "Florida State"
+         },
+         {
+            "playerId": "281",
+            "name": "Wilson Chandler",
+            "team": "DEN",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "225",
+            "dob": "1987-05-10",
+            "school": "DePaul"
+         },
+         {
+            "playerId": "282",
+            "name": "Kenneth Faried",
+            "team": "DEN",
+            "position": "PF",
+            "height": "6-8",
+            "weight": "228",
+            "dob": "1989-11-19",
+            "school": "Morehead State"
+         },
+         {
+            "playerId": "283",
+            "name": "Danilo Gallinari",
+            "team": "DEN",
+            "position": "SF",
+            "height": "6-10",
+            "weight": "225",
+            "dob": "1988-08-08",
+            "school": "No College"
+         },
+         {
+            "playerId": "284",
+            "name": "Gary Harris",
+            "team": "DEN",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "210",
+            "dob": "1994-09-14",
+            "school": "Michigan State"
+         },
+         {
+            "playerId": "285",
+            "name": "Juancho Hernangomez",
+            "team": "DEN",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "230",
+            "dob": "0000-00-00",
+            "school": ""
+         },
+         {
+            "playerId": "286",
+            "name": "Robbie Hummel",
+            "team": "DEN",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "216",
+            "dob": "1989-03-08",
+            "school": "Purdue"
+         },
+         {
+            "playerId": "287",
+            "name": "Nikola Jokic",
+            "team": "DEN",
+            "position": "C",
+            "height": "6-10",
+            "weight": "250",
+            "dob": "1995-02-19",
+            "school": "No College"
+         },
+         {
+            "playerId": "288",
+            "name": "D.J. Kennedy",
+            "team": "DEN",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "215",
+            "dob": "1989-11-05",
+            "school": "St. John's (N.Y.)"
+         },
+         {
+            "playerId": "289",
+            "name": "Mike Miller",
+            "team": "DEN",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "218",
+            "dob": "1980-02-19",
+            "school": "Florida"
+         },
+         {
+            "playerId": "290",
+            "name": "Emmanuel Mudiay",
+            "team": "DEN",
+            "position": "PG",
+            "height": "6-5",
+            "weight": "200",
+            "dob": "1996-03-05",
+            "school": "No College"
+         },
+         {
+            "playerId": "291",
+            "name": "Jamal Murray",
+            "team": "DEN",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "207",
+            "dob": "1997-02-23",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "292",
+            "name": "Jameer Nelson",
+            "team": "DEN",
+            "position": "PG",
+            "height": "6-0",
+            "weight": "190",
+            "dob": "1982-02-09",
+            "school": "St. Joseph's (PA)"
+         },
+         {
+            "playerId": "293",
+            "name": "Jusuf Nurkic",
+            "team": "DEN",
+            "position": "C",
+            "height": "7-0",
+            "weight": "280",
+            "dob": "1994-08-23",
+            "school": "No College"
+         },
+         {
+            "playerId": "294",
+            "name": "JaKarr Sampson",
+            "team": "DEN",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "214",
+            "dob": "1993-03-20",
+            "school": "St. John's (N.Y.)"
+         },
+         {
+            "playerId": "295",
+            "name": "Jarnell Stokes",
+            "team": "DEN",
+            "position": "C",
+            "height": "6-9",
+            "weight": "255",
+            "dob": "1994-01-07",
+            "school": "Tennessee"
+         },
+         {
+            "playerId": "296",
+            "name": "Axel Toupane",
+            "team": "DEN",
+            "position": "SG",
+            "height": "6-7",
+            "weight": "210",
+            "dob": "1992-07-23",
+            "school": "No College"
+         },
+         {
+            "playerId": "297",
+            "name": "Nate Wolters",
+            "team": "DEN",
+            "position": "PG",
+            "height": "6-4",
+            "weight": "190",
+            "dob": "1991-05-15",
+            "school": "South Dakota State"
+         },
+         {
+            "playerId": "298",
+            "name": "Cole Aldrich",
+            "team": "MIN",
+            "position": "C",
+            "height": "6-11",
+            "weight": "245",
+            "dob": "1988-10-31",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "299",
+            "name": "Nemanja Bjelica",
+            "team": "MIN",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "240",
+            "dob": "1988-05-09",
+            "school": "No College"
+         },
+         {
+            "playerId": "300",
+            "name": "Rasual Butler",
+            "team": "MIN",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "215",
+            "dob": "1979-05-23",
+            "school": "La Salle"
+         },
+         {
+            "playerId": "301",
+            "name": "Gorgui Dieng",
+            "team": "MIN",
+            "position": "C",
+            "height": "6-11",
+            "weight": "241",
+            "dob": "1990-01-18",
+            "school": "Louisville"
+         },
+         {
+            "playerId": "302",
+            "name": "Kris Dunn",
+            "team": "MIN",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "205",
+            "dob": "1994-03-18",
+            "school": "Providence"
+         },
+         {
+            "playerId": "303",
+            "name": "Jordan Hill",
+            "team": "MIN",
+            "position": "C",
+            "height": "6-10",
+            "weight": "235",
+            "dob": "1987-07-27",
+            "school": "Arizona"
+         },
+         {
+            "playerId": "304",
+            "name": "Tyus Jones",
+            "team": "MIN",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "195",
+            "dob": "1996-05-10",
+            "school": "Duke"
+         },
+         {
+            "playerId": "305",
+            "name": "Zach LaVine",
+            "team": "MIN",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "189",
+            "dob": "1995-03-10",
+            "school": "UCLA"
+         },
+         {
+            "playerId": "306",
+            "name": "John Lucas III",
+            "team": "MIN",
+            "position": "PG",
+            "height": "5-11",
+            "weight": "166",
+            "dob": "0000-00-00",
+            "school": "Oklahoma State"
+         },
+         {
+            "playerId": "307",
+            "name": "Shabazz Muhammad",
+            "team": "MIN",
+            "position": "SF",
+            "height": "6-6",
+            "weight": "223",
+            "dob": "1992-11-13",
+            "school": "UCLA"
+         },
+         {
+            "playerId": "308",
+            "name": "Toure' Murry",
+            "team": "MIN",
+            "position": "SF",
+            "height": "6-5",
+            "weight": "195",
+            "dob": "1989-11-08",
+            "school": "Wichita State"
+         },
+         {
+            "playerId": "309",
+            "name": "Adreian Payne",
+            "team": "MIN",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "237",
+            "dob": "1991-02-19",
+            "school": "Michigan State"
+         },
+         {
+            "playerId": "310",
+            "name": "Nikola Pekovic",
+            "team": "MIN",
+            "position": "C",
+            "height": "6-11",
+            "weight": "307",
+            "dob": "1986-01-03",
+            "school": "No College"
+         },
+         {
+            "playerId": "311",
+            "name": "Ricky Rubio",
+            "team": "MIN",
+            "position": "PG",
+            "height": "6-4",
+            "weight": "194",
+            "dob": "1990-10-21",
+            "school": "No College"
+         },
+         {
+            "playerId": "312",
+            "name": "Brandon Rush",
+            "team": "MIN",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "220",
+            "dob": "1985-07-07",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "313",
+            "name": "Karl-Anthony Towns",
+            "team": "MIN",
+            "position": "PF",
+            "height": "7-0",
+            "weight": "244",
+            "dob": "1995-11-15",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "314",
+            "name": "Andrew Wiggins",
+            "team": "MIN",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "199",
+            "dob": "1995-02-23",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "315",
+            "name": "Alex Abrines",
+            "team": "OKC",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "190",
+            "dob": "1993-08-01",
+            "school": "No College"
+         },
+         {
+            "playerId": "316",
+            "name": "Steven Adams",
+            "team": "OKC",
+            "position": "C",
+            "height": "7-0",
+            "weight": "255",
+            "dob": "1993-07-20",
+            "school": "Pittsburgh"
+         },
+         {
+            "playerId": "317",
+            "name": "Alex Caruso",
+            "team": "OKC",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "186",
+            "dob": "1994-02-28",
+            "school": "Texas A M"
+         },
+         {
+            "playerId": "318",
+            "name": "Semaj Christon",
+            "team": "OKC",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "190",
+            "dob": "1992-11-01",
+            "school": "Xavier (Ohio)"
+         },
+         {
+            "playerId": "319",
+            "name": "Nick Collison",
+            "team": "OKC",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "255",
+            "dob": "1980-10-26",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "320",
+            "name": "Daniel Hamilton",
+            "team": "OKC",
+            "position": "SG",
+            "height": "6-7",
+            "weight": "195",
+            "dob": "0000-00-00",
+            "school": "Connecticut"
+         },
+         {
+            "playerId": "321",
+            "name": "Josh Huestis",
+            "team": "OKC",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "230",
+            "dob": "1991-12-19",
+            "school": "Stanford"
+         },
+         {
+            "playerId": "322",
+            "name": "Ersan Ilyasova",
+            "team": "PHI",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "235",
+            "dob": "1987-05-15",
+            "school": "No College"
+         },
+         {
+            "playerId": "323",
+            "name": "Enes Kanter",
+            "team": "OKC",
+            "position": "C",
+            "height": "6-11",
+            "weight": "245",
+            "dob": "1992-05-20",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "324",
+            "name": "Joffrey Lauvergne",
+            "team": "OKC",
+            "position": "C",
+            "height": "6-11",
+            "weight": "220",
+            "dob": "1991-09-30",
+            "school": "No College"
+         },
+         {
+            "playerId": "325",
+            "name": "Mitch McGary",
+            "team": "OKC",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "255",
+            "dob": "1992-06-06",
+            "school": "Michigan"
+         },
+         {
+            "playerId": "326",
+            "name": "Anthony Morrow",
+            "team": "OKC",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "210",
+            "dob": "1985-09-27",
+            "school": "Georgia Tech"
+         },
+         {
+            "playerId": "327",
+            "name": "Victor Oladipo",
+            "team": "OKC",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "210",
+            "dob": "1992-05-04",
+            "school": "Indiana"
+         },
+         {
+            "playerId": "328",
+            "name": "Cameron Payne",
+            "team": "OKC",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "185",
+            "dob": "1994-08-08",
+            "school": "Murray State"
+         },
+         {
+            "playerId": "329",
+            "name": "Ronnie Price",
+            "team": "OKC",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "190",
+            "dob": "1983-06-21",
+            "school": "Utah Valley"
+         },
+         {
+            "playerId": "330",
+            "name": "Andre Roberson",
+            "team": "OKC",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "210",
+            "dob": "1991-12-04",
+            "school": "Colorado"
+         },
+         {
+            "playerId": "331",
+            "name": "Domantas Sabonis",
+            "team": "OKC",
+            "position": "PF",
+            "height": "6-11",
+            "weight": "240",
+            "dob": "1996-05-03",
+            "school": "Gonzaga"
+         },
+         {
+            "playerId": "332",
+            "name": "Kyle Singler",
+            "team": "OKC",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "228",
+            "dob": "1988-05-04",
+            "school": "Duke"
+         },
+         {
+            "playerId": "333",
+            "name": "Kaleb Tarczewski",
+            "team": "OKC",
+            "position": "C",
+            "height": "7-0",
+            "weight": "245",
+            "dob": "1993-02-26",
+            "school": "Arizona"
+         },
+         {
+            "playerId": "334",
+            "name": "Russell Westbrook",
+            "team": "OKC",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "200",
+            "dob": "1988-11-12",
+            "school": "UCLA"
+         },
+         {
+            "playerId": "335",
+            "name": "Chris Wright",
+            "team": "OKC",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "226",
+            "dob": "1988-09-30",
+            "school": "Dayton"
+         },
+         {
+            "playerId": "336",
+            "name": "Al-Farouq Aminu",
+            "team": "POR",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "215",
+            "dob": "1990-09-21",
+            "school": "Wake Forest"
+         },
+         {
+            "playerId": "337",
+            "name": "Pat Connaughton",
+            "team": "POR",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "206",
+            "dob": "1993-01-06",
+            "school": "Notre Dame"
+         },
+         {
+            "playerId": "338",
+            "name": "Allen Crabbe",
+            "team": "POR",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "210",
+            "dob": "1992-04-09",
+            "school": "California"
+         },
+         {
+            "playerId": "339",
+            "name": "Ed Davis",
+            "team": "POR",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "240",
+            "dob": "1989-06-05",
+            "school": "North Carolina"
+         },
+         {
+            "playerId": "340",
+            "name": "Festus Ezeli",
+            "team": "POR",
+            "position": "C",
+            "height": "6-11",
+            "weight": "265",
+            "dob": "1989-10-21",
+            "school": "Vanderbilt"
+         },
+         {
+            "playerId": "341",
+            "name": "Maurice Harkless",
+            "team": "POR",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "215",
+            "dob": "1993-05-11",
+            "school": "St. John's (N.Y.)"
+         },
+         {
+            "playerId": "342",
+            "name": "Jake Layman",
+            "team": "POR",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "220",
+            "dob": "1994-03-07",
+            "school": "Maryland"
+         },
+         {
+            "playerId": "343",
+            "name": "Meyers Leonard",
+            "team": "POR",
+            "position": "C",
+            "height": "7-1",
+            "weight": "245",
+            "dob": "1992-02-27",
+            "school": "Illinois"
+         },
+         {
+            "playerId": "344",
+            "name": "Damian Lillard",
+            "team": "POR",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "195",
+            "dob": "1990-07-15",
+            "school": "Weber State"
+         },
+         {
+            "playerId": "345",
+            "name": "C.J. McCollum",
+            "team": "POR",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "200",
+            "dob": "1991-09-19",
+            "school": "Lehigh"
+         },
+         {
+            "playerId": "346",
+            "name": "Luis Montero",
+            "team": "POR",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "185",
+            "dob": "1993-04-06",
+            "school": "Westchester CC NY"
+         },
+         {
+            "playerId": "347",
+            "name": "Shabazz Napier",
+            "team": "POR",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "175",
+            "dob": "1991-07-14",
+            "school": "Connecticut"
+         },
+         {
+            "playerId": "348",
+            "name": "Mason Plumlee",
+            "team": "POR",
+            "position": "C",
+            "height": "6-11",
+            "weight": "235",
+            "dob": "1990-03-05",
+            "school": "Duke"
+         },
+         {
+            "playerId": "349",
+            "name": "Evan Turner",
+            "team": "POR",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "220",
+            "dob": "1988-10-27",
+            "school": "Ohio State"
+         },
+         {
+            "playerId": "350",
+            "name": "Noah Vonleh",
+            "team": "POR",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "240",
+            "dob": "1995-08-24",
+            "school": "Indiana"
+         },
+         {
+            "playerId": "351",
+            "name": "Joel Bolomboy",
+            "team": "UTA",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "235",
+            "dob": "0000-00-00",
+            "school": "Weber State"
+         },
+         {
+            "playerId": "352",
+            "name": "Alec Burks",
+            "team": "UTA",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "214",
+            "dob": "0000-00-00",
+            "school": "Colorado"
+         },
+         {
+            "playerId": "353",
+            "name": "Boris Diaw",
+            "team": "UTA",
+            "position": "PF",
+            "height": "6-8",
+            "weight": "250",
+            "dob": "0000-00-00",
+            "school": ""
+         },
+         {
+            "playerId": "354",
+            "name": "Dante Exum",
+            "team": "UTA",
+            "position": "PG",
+            "height": "6-6",
+            "weight": "190",
+            "dob": "0000-00-00",
+            "school": ""
+         },
+         {
+            "playerId": "355",
+            "name": "Derrick Favors",
+            "team": "UTA",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "265",
+            "dob": "0000-00-00",
+            "school": "Georgia Tech"
+         },
+         {
+            "playerId": "356",
+            "name": "Quincy Ford",
+            "team": "NOP",
+            "position": "SG",
+            "height": "6-8",
+            "weight": "225",
+            "dob": "0000-00-00",
+            "school": "Northeastern"
+         },
+         {
+            "playerId": "357",
+            "name": "Rudy Gobert",
+            "team": "UTA",
+            "position": "C",
+            "height": "7-1",
+            "weight": "245",
+            "dob": "0000-00-00",
+            "school": ""
+         },
+         {
+            "playerId": "358",
+            "name": "Gordon Hayward",
+            "team": "UTA",
+            "position": "SG",
+            "height": "6-8",
+            "weight": "226",
+            "dob": "0000-00-00",
+            "school": "Butler"
+         },
+         {
+            "playerId": "359",
+            "name": "George Hill",
+            "team": "UTA",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "188",
+            "dob": "0000-00-00",
+            "school": "IUPUI"
+         },
+         {
+            "playerId": "360",
+            "name": "Rodney Hood",
+            "team": "UTA",
+            "position": "SG",
+            "height": "6-8",
+            "weight": "206",
+            "dob": "0000-00-00",
+            "school": "Duke"
+         },
+         {
+            "playerId": "361",
+            "name": "Joe Ingles",
+            "team": "UTA",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "226",
+            "dob": "0000-00-00",
+            "school": ""
+         },
+         {
+            "playerId": "362",
+            "name": "Chris Johnson",
+            "team": "UTA",
+            "position": "SF",
+            "height": "6-6",
+            "weight": "206",
+            "dob": "0000-00-00",
+            "school": "Dayton"
+         },
+         {
+            "playerId": "363",
+            "name": "Joe Johnson",
+            "team": "UTA",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "240",
+            "dob": "0000-00-00",
+            "school": "Arkansas"
+         },
+         {
+            "playerId": "364",
+            "name": "Trey Lyles",
+            "team": "UTA",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "234",
+            "dob": "0000-00-00",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "365",
+            "name": "Shelvin Mack",
+            "team": "UTA",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "203",
+            "dob": "0000-00-00",
+            "school": "Butler"
+         },
+         {
+            "playerId": "366",
+            "name": "Raul Neto",
+            "team": "UTA",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "179",
+            "dob": "0000-00-00",
+            "school": ""
+         },
+         {
+            "playerId": "367",
+            "name": "Marcus Paige",
+            "team": "UTA",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "175",
+            "dob": "0000-00-00",
+            "school": "North Carolina"
+         },
+         {
+            "playerId": "368",
+            "name": "Henry Sims",
+            "team": "UTA",
+            "position": "C",
+            "height": "6-10",
+            "weight": "248",
+            "dob": "0000-00-00",
+            "school": "Georgetown"
+         },
+         {
+            "playerId": "369",
+            "name": "Tyrone Wallace",
+            "team": "UTA",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "205",
+            "dob": "0000-00-00",
+            "school": "California"
+         },
+         {
+            "playerId": "370",
+            "name": "Jeff Withey",
+            "team": "UTA",
+            "position": "C",
+            "height": "7-0",
+            "weight": "231",
+            "dob": "0000-00-00",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "371",
+            "name": "Ian Clark",
+            "team": "GSW",
+            "position": "SG",
+            "height": "6-3",
+            "weight": "175",
+            "dob": "1991-03-07",
+            "school": "Belmont University"
+         },
+         {
+            "playerId": "372",
+            "name": "Elgin Cook",
+            "team": "GSW",
+            "position": "SF",
+            "height": "6-6",
+            "weight": "212",
+            "dob": "1993-01-15",
+            "school": "Oregon"
+         },
+         {
+            "playerId": "373",
+            "name": "Stephen Curry",
+            "team": "GSW",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "190",
+            "dob": "1988-03-14",
+            "school": "Davidson"
+         },
+         {
+            "playerId": "374",
+            "name": "Kevin Durant",
+            "team": "GSW",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "240",
+            "dob": "1988-09-29",
+            "school": "Texas"
+         },
+         {
+            "playerId": "375",
+            "name": "Draymond Green",
+            "team": "GSW",
+            "position": "PF",
+            "height": "6-7",
+            "weight": "230",
+            "dob": "1990-03-04",
+            "school": "Michigan State"
+         },
+         {
+            "playerId": "376",
+            "name": "Andre Iguodala",
+            "team": "GSW",
+            "position": "SF",
+            "height": "6-6",
+            "weight": "215",
+            "dob": "1984-01-28",
+            "school": "Arizona"
+         },
+         {
+            "playerId": "377",
+            "name": "Cameron Jones",
+            "team": "GSW",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "185",
+            "dob": "1989-05-04",
+            "school": "Northern Arizona"
+         },
+         {
+            "playerId": "378",
+            "name": "Damian Jones",
+            "team": "GSW",
+            "position": "C",
+            "height": "7-0",
+            "weight": "245",
+            "dob": "1995-06-30",
+            "school": "Vanderbilt"
+         },
+         {
+            "playerId": "379",
+            "name": "Shaun Livingston",
+            "team": "GSW",
+            "position": "PG",
+            "height": "6-7",
+            "weight": "192",
+            "dob": "1985-09-11",
+            "school": "No College"
+         },
+         {
+            "playerId": "380",
+            "name": "Kevon Looney",
+            "team": "GSW",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "220",
+            "dob": "1996-02-06",
+            "school": "UCLA"
+         },
+         {
+            "playerId": "381",
+            "name": "James Michael McAdoo",
+            "team": "GSW",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "240",
+            "dob": "1993-01-04",
+            "school": "North Carolina"
+         },
+         {
+            "playerId": "382",
+            "name": "Patrick McCaw",
+            "team": "GSW",
+            "position": "SG",
+            "height": "6-7",
+            "weight": "185",
+            "dob": "1995-10-25",
+            "school": "Nevada-Las Vegas"
+         },
+         {
+            "playerId": "383",
+            "name": "JaVale McGee",
+            "team": "GSW",
+            "position": "C",
+            "height": "7-0",
+            "weight": "270",
+            "dob": "1988-01-19",
+            "school": "Nevada"
+         },
+         {
+            "playerId": "384",
+            "name": "Zaza Pachulia",
+            "team": "GSW",
+            "position": "C",
+            "height": "6-11",
+            "weight": "275",
+            "dob": "1984-02-10",
+            "school": "No College"
+         },
+         {
+            "playerId": "385",
+            "name": "Phil Pressey",
+            "team": "GSW",
+            "position": "PG",
+            "height": "5-11",
+            "weight": "175",
+            "dob": "1991-02-17",
+            "school": "Missouri"
+         },
+         {
+            "playerId": "386",
+            "name": "Klay Thompson",
+            "team": "GSW",
+            "position": "SG",
+            "height": "6-7",
+            "weight": "215",
+            "dob": "1990-02-08",
+            "school": "Washington State"
+         },
+         {
+            "playerId": "387",
+            "name": "Anderson Varejao",
+            "team": "GSW",
+            "position": "C",
+            "height": "6-11",
+            "weight": "273",
+            "dob": "1982-09-28",
+            "school": "No College"
+         },
+         {
+            "playerId": "388",
+            "name": "David West",
+            "team": "GSW",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "250",
+            "dob": "1980-08-29",
+            "school": "Xavier (Ohio)"
+         },
+         {
+            "playerId": "389",
+            "name": "Elliot Williams",
+            "team": "GSW",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "183",
+            "dob": "1989-06-20",
+            "school": "Memphis"
+         },
+         {
+            "playerId": "390",
+            "name": "Scott Wood",
+            "team": "GSW",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "169",
+            "dob": "1990-06-21",
+            "school": "North Carolina State"
+         },
+         {
+            "playerId": "391",
+            "name": "Alan Anderson",
+            "team": "LAC",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "220",
+            "dob": "1982-10-16",
+            "school": "Michigan State"
+         },
+         {
+            "playerId": "392",
+            "name": "Brandon Bass",
+            "team": "LAC",
+            "position": "PF",
+            "height": "6-8",
+            "weight": "250",
+            "dob": "1985-04-30",
+            "school": "Louisiana State"
+         },
+         {
+            "playerId": "393",
+            "name": "Jamal Crawford",
+            "team": "LAC",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "195",
+            "dob": "1980-03-20",
+            "school": "Michigan"
+         },
+         {
+            "playerId": "394",
+            "name": "Raymond Felton",
+            "team": "LAC",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "205",
+            "dob": "1984-06-26",
+            "school": "North Carolina"
+         },
+         {
+            "playerId": "395",
+            "name": "Blake Griffin",
+            "team": "LAC",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "251",
+            "dob": "1989-03-16",
+            "school": "Oklahoma"
+         },
+         {
+            "playerId": "396",
+            "name": "Brice Johnson",
+            "team": "LAC",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "230",
+            "dob": "1994-06-27",
+            "school": "North Carolina"
+         },
+         {
+            "playerId": "397",
+            "name": "Wesley Johnson",
+            "team": "LAC",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "215",
+            "dob": "1987-07-11",
+            "school": "Syracuse"
+         },
+         {
+            "playerId": "398",
+            "name": "DeAndre Jordan",
+            "team": "LAC",
+            "position": "C",
+            "height": "6-11",
+            "weight": "265",
+            "dob": "1988-07-21",
+            "school": "Texas A M"
+         },
+         {
+            "playerId": "399",
+            "name": "Luc Richard Mbah a Moute",
+            "team": "LAC",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "230",
+            "dob": "1986-09-09",
+            "school": "UCLA"
+         },
+         {
+            "playerId": "400",
+            "name": "Xavier Munford",
+            "team": "MEM",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "180",
+            "dob": "0000-00-00",
+            "school": "Rhode Island"
+         },
+         {
+            "playerId": "401",
+            "name": "Chris Paul",
+            "team": "LAC",
+            "position": "PG",
+            "height": "6-0",
+            "weight": "175",
+            "dob": "1985-05-06",
+            "school": "Wake Forest"
+         },
+         {
+            "playerId": "402",
+            "name": "Paul Pierce",
+            "team": "LAC",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "235",
+            "dob": "1977-10-13",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "403",
+            "name": "JJ Redick",
+            "team": "LAC",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "190",
+            "dob": "1984-06-24",
+            "school": "Duke"
+         },
+         {
+            "playerId": "404",
+            "name": "Austin Rivers",
+            "team": "LAC",
+            "position": "PG",
+            "height": "6-4",
+            "weight": "200",
+            "dob": "1992-08-01",
+            "school": "Duke"
+         },
+         {
+            "playerId": "405",
+            "name": "Marreese Speights",
+            "team": "LAC",
+            "position": "C",
+            "height": "6-10",
+            "weight": "255",
+            "dob": "1987-08-04",
+            "school": "Florida"
+         },
+         {
+            "playerId": "406",
+            "name": "Diamond Stone",
+            "team": "LAC",
+            "position": "C",
+            "height": "6-11",
+            "weight": "255",
+            "dob": "1997-02-10",
+            "school": "Maryland"
+         },
+         {
+            "playerId": "407",
+            "name": "Dorell Wright",
+            "team": "LAC",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "205",
+            "dob": "1985-12-02",
+            "school": "No College"
+         },
+         {
+            "playerId": "408",
+            "name": "Zach Auguste",
+            "team": "LAL",
+            "position": "F",
+            "height": "6-10",
+            "weight": "245",
+            "dob": "1993-07-08",
+            "school": "Notre Dame"
+         },
+         {
+            "playerId": "409",
+            "name": "Tarik Black",
+            "team": "LAL",
+            "position": "C",
+            "height": "6-9",
+            "weight": "250",
+            "dob": "1991-11-22",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "410",
+            "name": "Anthony Brown",
+            "team": "LAL",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "210",
+            "dob": "1992-10-10",
+            "school": "Stanford"
+         },
+         {
+            "playerId": "411",
+            "name": "Jose Calderon",
+            "team": "LAL",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "200",
+            "dob": "1981-09-28",
+            "school": "No College"
+         },
+         {
+            "playerId": "412",
+            "name": "Jordan Clarkson",
+            "team": "LAL",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "194",
+            "dob": "1992-06-07",
+            "school": "Missouri"
+         },
+         {
+            "playerId": "413",
+            "name": "Luol Deng",
+            "team": "LAL",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "220",
+            "dob": "1985-04-16",
+            "school": "Duke"
+         },
+         {
+            "playerId": "414",
+            "name": "Marcelo Huertas",
+            "team": "LAL",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "200",
+            "dob": "1983-05-25",
+            "school": "No College"
+         },
+         {
+            "playerId": "415",
+            "name": "Brandon Ingram",
+            "team": "LAL",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "190",
+            "dob": "1997-09-02",
+            "school": "Duke"
+         },
+         {
+            "playerId": "416",
+            "name": "Julian Jacobs",
+            "team": "LAL",
+            "position": "PG",
+            "height": "6-4",
+            "weight": "180",
+            "dob": "1994-11-23",
+            "school": "USC"
+         },
+         {
+            "playerId": "417",
+            "name": "Yi Jianlian",
+            "team": "LAL",
+            "position": "PF",
+            "height": "7-0",
+            "weight": "250",
+            "dob": "1987-10-27",
+            "school": "No College"
+         },
+         {
+            "playerId": "418",
+            "name": "Timofey Mozgov",
+            "team": "LAL",
+            "position": "C",
+            "height": "7-1",
+            "weight": "275",
+            "dob": "1986-07-16",
+            "school": "No College"
+         },
+         {
+            "playerId": "419",
+            "name": "Larry Nance Jr.",
+            "team": "LAL",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "230",
+            "dob": "1993-01-01",
+            "school": "Wyoming"
+         },
+         {
+            "playerId": "420",
+            "name": "Julius Randle",
+            "team": "LAL",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "250",
+            "dob": "1994-11-29",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "421",
+            "name": "Thomas Robinson",
+            "team": "LAL",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "237",
+            "dob": "1991-03-17",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "422",
+            "name": "D'Angelo Russell",
+            "team": "LAL",
+            "position": "PG",
+            "height": "6-5",
+            "weight": "195",
+            "dob": "1996-02-23",
+            "school": "Ohio State"
+         },
+         {
+            "playerId": "423",
+            "name": "Travis Wear",
+            "team": "LAL",
+            "position": "SF",
+            "height": "6-10",
+            "weight": "225",
+            "dob": "1990-09-21",
+            "school": "UCLA"
+         },
+         {
+            "playerId": "424",
+            "name": "Louis Williams",
+            "team": "LAL",
+            "position": "SG",
+            "height": "6-1",
+            "weight": "175",
+            "dob": "1986-10-27",
+            "school": "No College"
+         },
+         {
+            "playerId": "425",
+            "name": "Metta World Peace",
+            "team": "LAL",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "260",
+            "dob": "1979-11-13",
+            "school": "St. John's (N.Y.)"
+         },
+         {
+            "playerId": "426",
+            "name": "Nick Young",
+            "team": "LAL",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "210",
+            "dob": "1985-06-01",
+            "school": "USC"
+         },
+         {
+            "playerId": "427",
+            "name": "Ivica Zubac",
+            "team": "LAL",
+            "position": "C",
+            "height": "7-1",
+            "weight": "240",
+            "dob": "1997-03-18",
+            "school": "No College"
+         },
+         {
+            "playerId": "428",
+            "name": "Gracin Bakumanya",
+            "team": "PHX",
+            "position": "C",
+            "height": "6-11",
+            "weight": "220",
+            "dob": "1997-07-27",
+            "school": "No College"
+         },
+         {
+            "playerId": "429",
+            "name": "Leandro Barbosa",
+            "team": "PHX",
+            "position": "SG",
+            "height": "6-3",
+            "weight": "194",
+            "dob": "1982-11-28",
+            "school": "No College"
+         },
+         {
+            "playerId": "430",
+            "name": "Dragan Bender",
+            "team": "PHX",
+            "position": "PF",
+            "height": "7-1",
+            "weight": "225",
+            "dob": "1997-11-17",
+            "school": "No College"
+         },
+         {
+            "playerId": "431",
+            "name": "Eric Bledsoe",
+            "team": "PHX",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "205",
+            "dob": "1989-12-09",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "432",
+            "name": "Devin Booker",
+            "team": "PHX",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "206",
+            "dob": "1996-10-30",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "433",
+            "name": "Tyson Chandler",
+            "team": "PHX",
+            "position": "C",
+            "height": "7-1",
+            "weight": "240",
+            "dob": "1982-10-02",
+            "school": "No College"
+         },
+         {
+            "playerId": "434",
+            "name": "Marquese Chriss",
+            "team": "PHX",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "233",
+            "dob": "1997-07-02",
+            "school": "Washington"
+         },
+         {
+            "playerId": "435",
+            "name": "Derek Cooke Jr.",
+            "team": "PHX",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "220",
+            "dob": "0000-00-00",
+            "school": ""
+         },
+         {
+            "playerId": "436",
+            "name": "Jared Dudley",
+            "team": "PHX",
+            "position": "PF",
+            "height": "6-7",
+            "weight": "225",
+            "dob": "1985-07-10",
+            "school": "Boston College"
+         },
+         {
+            "playerId": "437",
+            "name": "Archie Goodwin",
+            "team": "NOP",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "205",
+            "dob": "1994-08-17",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "438",
+            "name": "Shaquille Harrison",
+            "team": "PHX",
+            "position": "PG",
+            "height": "6-4",
+            "weight": "185",
+            "dob": "1993-10-06",
+            "school": "Tulsa"
+         },
+         {
+            "playerId": "439",
+            "name": "John Jenkins",
+            "team": "PHX",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "215",
+            "dob": "1991-03-06",
+            "school": "Vanderbilt"
+         },
+         {
+            "playerId": "440",
+            "name": "Derrick Jones Jr.",
+            "team": "PHX",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "190",
+            "dob": "1997-02-15",
+            "school": "Nevada-Las Vegas"
+         },
+         {
+            "playerId": "441",
+            "name": "Brandon Knight",
+            "team": "PHX",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "195",
+            "dob": "1991-12-02",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "442",
+            "name": "Alex Len",
+            "team": "PHX",
+            "position": "C",
+            "height": "7-1",
+            "weight": "260",
+            "dob": "1993-06-16",
+            "school": "Maryland"
+         },
+         {
+            "playerId": "443",
+            "name": "P.J. Tucker",
+            "team": "PHX",
+            "position": "SF",
+            "height": "6-6",
+            "weight": "245",
+            "dob": "1985-05-05",
+            "school": "Texas"
+         },
+         {
+            "playerId": "444",
+            "name": "Tyler Ulis",
+            "team": "PHX",
+            "position": "PG",
+            "height": "5-10",
+            "weight": "150",
+            "dob": "1996-01-05",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "445",
+            "name": "T.J. Warren",
+            "team": "PHX",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "225",
+            "dob": "1993-09-05",
+            "school": "North Carolina State"
+         },
+         {
+            "playerId": "446",
+            "name": "Alan Williams",
+            "team": "PHX",
+            "position": "C",
+            "height": "6-8",
+            "weight": "260",
+            "dob": "1993-01-28",
+            "school": "California-Santa Barbara"
+         },
+         {
+            "playerId": "447",
+            "name": "Arron Afflalo",
+            "team": "SAC",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "210",
+            "dob": "1985-10-15",
+            "school": "UCLA"
+         },
+         {
+            "playerId": "448",
+            "name": "Matt Barnes",
+            "team": "SAC",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "226",
+            "dob": "1980-03-09",
+            "school": "UCLA"
+         },
+         {
+            "playerId": "449",
+            "name": "Omri Casspi",
+            "team": "SAC",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "225",
+            "dob": "1988-06-22",
+            "school": "No College"
+         },
+         {
+            "playerId": "450",
+            "name": "Willie Cauley-Stein",
+            "team": "SAC",
+            "position": "C",
+            "height": "7-0",
+            "weight": "240",
+            "dob": "1993-08-18",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "451",
+            "name": "Darren Collison",
+            "team": "SAC",
+            "position": "PG",
+            "height": "6-0",
+            "weight": "175",
+            "dob": "1987-08-23",
+            "school": "UCLA"
+         },
+         {
+            "playerId": "452",
+            "name": "DeMarcus Cousins",
+            "team": "SAC",
+            "position": "C",
+            "height": "6-11",
+            "weight": "270",
+            "dob": "1990-08-13",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "453",
+            "name": "Isaiah Cousins",
+            "team": "SAC",
+            "position": "PG",
+            "height": "6-5",
+            "weight": "191",
+            "dob": "1994-03-13",
+            "school": "Oklahoma"
+         },
+         {
+            "playerId": "454",
+            "name": "Jordan Farmar",
+            "team": "SAC",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "180",
+            "dob": "1986-11-30",
+            "school": "UCLA"
+         },
+         {
+            "playerId": "455",
+            "name": "Rudy Gay",
+            "team": "SAC",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "230",
+            "dob": "1986-08-17",
+            "school": "Connecticut"
+         },
+         {
+            "playerId": "456",
+            "name": "Kosta Koufos",
+            "team": "SAC",
+            "position": "PF",
+            "height": "7-0",
+            "weight": "265",
+            "dob": "1989-02-24",
+            "school": "Ohio State"
+         },
+         {
+            "playerId": "457",
+            "name": "Skal Labissiere",
+            "team": "SAC",
+            "position": "PF",
+            "height": "6-11",
+            "weight": "225",
+            "dob": "1996-03-18",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "458",
+            "name": "Ty Lawson",
+            "team": "SAC",
+            "position": "PG",
+            "height": "5-11",
+            "weight": "195",
+            "dob": "1987-11-03",
+            "school": "North Carolina"
+         },
+         {
+            "playerId": "459",
+            "name": "Ben McLemore",
+            "team": "SAC",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "195",
+            "dob": "1993-02-11",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "460",
+            "name": "Georgios Papagiannis",
+            "team": "SAC",
+            "position": "C",
+            "height": "7-1",
+            "weight": "240",
+            "dob": "0000-00-00",
+            "school": ""
+         },
+         {
+            "playerId": "461",
+            "name": "Lamar Patterson",
+            "team": "ATL",
+            "position": "SF",
+            "height": "6-5",
+            "weight": "225",
+            "dob": "1991-08-12",
+            "school": "Pittsburgh"
+         },
+         {
+            "playerId": "462",
+            "name": "Malachi Richardson",
+            "team": "SAC",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "205",
+            "dob": "1996-01-05",
+            "school": "Syracuse"
+         },
+         {
+            "playerId": "463",
+            "name": "Garrett Temple",
+            "team": "SAC",
+            "position": "PG",
+            "height": "6-6",
+            "weight": "195",
+            "dob": "1986-05-08",
+            "school": "Louisiana State"
+         },
+         {
+            "playerId": "464",
+            "name": "Anthony Tolliver",
+            "team": "SAC",
+            "position": "PF",
+            "height": "6-8",
+            "weight": "240",
+            "dob": "1985-06-01",
+            "school": "Creighton"
+         },
+         {
+            "playerId": "465",
+            "name": "Quincy Acy",
+            "team": "BKN",
+            "position": "PF",
+            "height": "6-7",
+            "weight": "240",
+            "dob": "1990-10-06",
+            "school": "Baylor"
+         },
+         {
+            "playerId": "466",
+            "name": "Justin Anderson",
+            "team": "DAL",
+            "position": "SF",
+            "height": "6-6",
+            "weight": "228",
+            "dob": "1993-11-19",
+            "school": "Virginia"
+         },
+         {
+            "playerId": "467",
+            "name": "J.J. Barea",
+            "team": "DAL",
+            "position": "PG",
+            "height": "6-0",
+            "weight": "185",
+            "dob": "1984-06-26",
+            "school": "Northeastern"
+         },
+         {
+            "playerId": "468",
+            "name": "Harrison Barnes",
+            "team": "DAL",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "225",
+            "dob": "1992-05-30",
+            "school": "North Carolina"
+         },
+         {
+            "playerId": "469",
+            "name": "Andrew Bogut",
+            "team": "DAL",
+            "position": "C",
+            "height": "7-0",
+            "weight": "260",
+            "dob": "1984-11-28",
+            "school": "Utah"
+         },
+         {
+            "playerId": "470",
+            "name": "Nicolas Brussino",
+            "team": "DAL",
+            "position": "SG",
+            "height": "6-8",
+            "weight": "215",
+            "dob": "1993-03-02",
+            "school": "No College"
+         },
+         {
+            "playerId": "471",
+            "name": "Kyle Collinsworth",
+            "team": "DAL",
+            "position": "G",
+            "height": "6-6",
+            "weight": "210",
+            "dob": "1991-10-03",
+            "school": "Brigham Young"
+         },
+         {
+            "playerId": "472",
+            "name": "Seth Curry",
+            "team": "DAL",
+            "position": "SG",
+            "height": "6-2",
+            "weight": "185",
+            "dob": "1990-08-23",
+            "school": "Duke"
+         },
+         {
+            "playerId": "473",
+            "name": "Dorian Finney-Smith",
+            "team": "DAL",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "220",
+            "dob": "1993-05-04",
+            "school": "Florida"
+         },
+         {
+            "playerId": "474",
+            "name": "Jonathan Gibson",
+            "team": "DAL",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "185",
+            "dob": "1987-11-08",
+            "school": "New Mexico State"
+         },
+         {
+            "playerId": "475",
+            "name": "A.J. Hammons",
+            "team": "DAL",
+            "position": "C",
+            "height": "7-0",
+            "weight": "260",
+            "dob": "1992-08-27",
+            "school": "Purdue"
+         },
+         {
+            "playerId": "476",
+            "name": "Devin Harris",
+            "team": "DAL",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "185",
+            "dob": "1983-02-27",
+            "school": "Wisconsin"
+         },
+         {
+            "playerId": "477",
+            "name": "Keith Hornsby",
+            "team": "DAL",
+            "position": "G",
+            "height": "6-4",
+            "weight": "210",
+            "dob": "1992-01-30",
+            "school": "Louisiana State"
+         },
+         {
+            "playerId": "478",
+            "name": "Wesley Matthews",
+            "team": "DAL",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "220",
+            "dob": "1986-10-14",
+            "school": "Marquette"
+         },
+         {
+            "playerId": "479",
+            "name": "Salah Mejri",
+            "team": "DAL",
+            "position": "C",
+            "height": "7-2",
+            "weight": "245",
+            "dob": "1986-06-15",
+            "school": "No College"
+         },
+         {
+            "playerId": "480",
+            "name": "Dirk Nowitzki",
+            "team": "DAL",
+            "position": "PF",
+            "height": "7-0",
+            "weight": "245",
+            "dob": "1978-06-19",
+            "school": "No College"
+         },
+         {
+            "playerId": "481",
+            "name": "Dwight Powell",
+            "team": "DAL",
+            "position": "PF",
+            "height": "6-11",
+            "weight": "240",
+            "dob": "1991-07-20",
+            "school": "Stanford"
+         },
+         {
+            "playerId": "482",
+            "name": "Jameel Warney",
+            "team": "DAL",
+            "position": "F",
+            "height": "6-8",
+            "weight": "260",
+            "dob": "1994-01-31",
+            "school": "Stony Brook"
+         },
+         {
+            "playerId": "483",
+            "name": "C.J. Williams",
+            "team": "DAL",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "225",
+            "dob": "1990-02-06",
+            "school": "North Carolina State"
+         },
+         {
+            "playerId": "484",
+            "name": "Deron Williams",
+            "team": "DAL",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "200",
+            "dob": "1984-06-26",
+            "school": "Illinois"
+         },
+         {
+            "playerId": "485",
+            "name": "Ryan Anderson",
+            "team": "HOU",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "240",
+            "dob": "1988-05-06",
+            "school": "California"
+         },
+         {
+            "playerId": "486",
+            "name": "Trevor Ariza",
+            "team": "HOU",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "215",
+            "dob": "1985-06-30",
+            "school": "UCLA"
+         },
+         {
+            "playerId": "487",
+            "name": "Patrick Beverley",
+            "team": "HOU",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "185",
+            "dob": "1988-07-12",
+            "school": "Arkansas"
+         },
+         {
+            "playerId": "488",
+            "name": "Corey Brewer",
+            "team": "HOU",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "186",
+            "dob": "1986-03-05",
+            "school": "Florida"
+         },
+         {
+            "playerId": "489",
+            "name": "Clint Capela",
+            "team": "HOU",
+            "position": "C",
+            "height": "6-10",
+            "weight": "240",
+            "dob": "1994-05-18",
+            "school": "No College"
+         },
+         {
+            "playerId": "490",
+            "name": "Sam Dekker",
+            "team": "HOU",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "230",
+            "dob": "1994-05-08",
+            "school": "Wisconsin"
+         },
+         {
+            "playerId": "491",
+            "name": "Tyler Ennis",
+            "team": "HOU",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "194",
+            "dob": "1994-08-24",
+            "school": "Syracuse"
+         },
+         {
+            "playerId": "492",
+            "name": "Eric Gordon",
+            "team": "HOU",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "215",
+            "dob": "1988-12-25",
+            "school": "Indiana"
+         },
+         {
+            "playerId": "493",
+            "name": "James Harden",
+            "team": "HOU",
+            "position": "PG",
+            "height": "6-5",
+            "weight": "220",
+            "dob": "1989-08-26",
+            "school": "Arizona State"
+         },
+         {
+            "playerId": "494",
+            "name": "Montrezl Harrell",
+            "team": "HOU",
+            "position": "C",
+            "height": "6-8",
+            "weight": "240",
+            "dob": "1994-01-26",
+            "school": "Louisville"
+         },
+         {
+            "playerId": "495",
+            "name": "Nene Hilario",
+            "team": "HOU",
+            "position": "C",
+            "height": "6-11",
+            "weight": "250",
+            "dob": "1982-09-13",
+            "school": "No College"
+         },
+         {
+            "playerId": "496",
+            "name": "K.J. McDaniels",
+            "team": "HOU",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "205",
+            "dob": "1993-02-09",
+            "school": "Clemson"
+         },
+         {
+            "playerId": "497",
+            "name": "Donatas Motiejunas",
+            "team": "NOP",
+            "position": "PF",
+            "height": "7-0",
+            "weight": "222",
+            "dob": "0000-00-00",
+            "school": ""
+         },
+         {
+            "playerId": "498",
+            "name": "Chinanu Onuaku",
+            "team": "HOU",
+            "position": "C",
+            "height": "6-10",
+            "weight": "245",
+            "dob": "1996-11-01",
+            "school": "Louisville"
+         },
+         {
+            "playerId": "499",
+            "name": "Gary Payton II",
+            "team": "HOU",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "190",
+            "dob": "0000-00-00",
+            "school": "Oregon State"
+         },
+         {
+            "playerId": "500",
+            "name": "Pablo Prigioni",
+            "team": "HOU",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "185",
+            "dob": "1977-05-17",
+            "school": "No College"
+         },
+         {
+            "playerId": "501",
+            "name": "Josh Smith",
+            "team": "HOU",
+            "position": "C",
+            "height": "6-9",
+            "weight": "225",
+            "dob": "0000-00-00",
+            "school": ""
+         },
+         {
+            "playerId": "502",
+            "name": "Isaiah Taylor",
+            "team": "HOU",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "170",
+            "dob": "1994-07-11",
+            "school": "Texas"
+         },
+         {
+            "playerId": "503",
+            "name": "Jordan Adams",
+            "team": "MEM",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "209",
+            "dob": "1994-07-08",
+            "school": "UCLA"
+         },
+         {
+            "playerId": "504",
+            "name": "Tony Allen",
+            "team": "MEM",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "213",
+            "dob": "1982-01-11",
+            "school": "Oklahoma State"
+         },
+         {
+            "playerId": "505",
+            "name": "Wade Baldwin IV",
+            "team": "MEM",
+            "position": "PG",
+            "height": "6-4",
+            "weight": "202",
+            "dob": "1996-03-29",
+            "school": "Vanderbilt"
+         },
+         {
+            "playerId": "506",
+            "name": "Vince Carter",
+            "team": "MEM",
+            "position": "SF",
+            "height": "6-6",
+            "weight": "220",
+            "dob": "1977-01-26",
+            "school": "North Carolina"
+         },
+         {
+            "playerId": "507",
+            "name": "Mike Conley",
+            "team": "MEM",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "175",
+            "dob": "1987-10-11",
+            "school": "Ohio State"
+         },
+         {
+            "playerId": "508",
+            "name": "Troy Daniels",
+            "team": "MEM",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "205",
+            "dob": "1991-07-15",
+            "school": "Virginia Commonwealth"
+         },
+         {
+            "playerId": "509",
+            "name": "Deyonta Davis",
+            "team": "MEM",
+            "position": "C",
+            "height": "6-10",
+            "weight": "240",
+            "dob": "1996-12-02",
+            "school": "Michigan State"
+         },
+         {
+            "playerId": "510",
+            "name": "James Ennis",
+            "team": "MEM",
+            "position": "SG",
+            "height": "6-7",
+            "weight": "210",
+            "dob": "1990-07-01",
+            "school": "Long Beach State"
+         },
+         {
+            "playerId": "511",
+            "name": "Marc Gasol",
+            "team": "MEM",
+            "position": "C",
+            "height": "7-1",
+            "weight": "255",
+            "dob": "1985-01-29",
+            "school": "No College"
+         },
+         {
+            "playerId": "512",
+            "name": "JaMychal Green",
+            "team": "MEM",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "227",
+            "dob": "1990-06-21",
+            "school": "Alabama"
+         },
+         {
+            "playerId": "513",
+            "name": "Andrew Harrison",
+            "team": "MEM",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "213",
+            "dob": "1994-10-28",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "514",
+            "name": "Jarell Martin",
+            "team": "MEM",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "239",
+            "dob": "1994-05-24",
+            "school": "Louisiana State"
+         },
+         {
+            "playerId": "515",
+            "name": "Chandler Parsons",
+            "team": "MEM",
+            "position": "SF",
+            "height": "6-10",
+            "weight": "230",
+            "dob": "1988-10-25",
+            "school": "Florida"
+         },
+         {
+            "playerId": "516",
+            "name": "Zach Randolph",
+            "team": "MEM",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "260",
+            "dob": "1981-07-16",
+            "school": "Michigan State"
+         },
+         {
+            "playerId": "517",
+            "name": "Wayne Selden Jr.",
+            "team": "MEM",
+            "position": "G",
+            "height": "6-5",
+            "weight": "230",
+            "dob": "0000-00-00",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "518",
+            "name": "D.J. Stephens",
+            "team": "MEM",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "188",
+            "dob": "1990-12-19",
+            "school": "Memphis"
+         },
+         {
+            "playerId": "519",
+            "name": "Troy Williams",
+            "team": "MEM",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "210",
+            "dob": "1994-12-30",
+            "school": "Indiana"
+         },
+         {
+            "playerId": "520",
+            "name": "Brandan Wright",
+            "team": "MEM",
+            "position": "C",
+            "height": "6-10",
+            "weight": "210",
+            "dob": "1987-10-05",
+            "school": "North Carolina"
+         },
+         {
+            "playerId": "521",
+            "name": "Tony Wroten",
+            "team": "MEM",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "205",
+            "dob": "1993-04-13",
+            "school": "Washington"
+         },
+         {
+            "playerId": "522",
+            "name": "Alexis Ajinca",
+            "team": "NOP",
+            "position": "C",
+            "height": "7-2",
+            "weight": "248",
+            "dob": "1988-05-06",
+            "school": "No College"
+         },
+         {
+            "playerId": "523",
+            "name": "Omer Asik",
+            "team": "NOP",
+            "position": "C",
+            "height": "7-0",
+            "weight": "255",
+            "dob": "1986-07-04",
+            "school": "No College"
+         },
+         {
+            "playerId": "524",
+            "name": "Dante Cunningham",
+            "team": "NOP",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "230",
+            "dob": "1987-04-22",
+            "school": "Villanova"
+         },
+         {
+            "playerId": "525",
+            "name": "Anthony Davis",
+            "team": "NOP",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "253",
+            "dob": "1993-03-11",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "526",
+            "name": "Cheick Diallo",
+            "team": "NOP",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "220",
+            "dob": "1996-09-13",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "527",
+            "name": "Tyreke Evans",
+            "team": "NOP",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "220",
+            "dob": "1989-09-19",
+            "school": "Memphis"
+         },
+         {
+            "playerId": "528",
+            "name": "Tim Frazier",
+            "team": "NOP",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "170",
+            "dob": "1990-11-01",
+            "school": "Penn State"
+         },
+         {
+            "playerId": "529",
+            "name": "Langston Galloway",
+            "team": "NOP",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "200",
+            "dob": "1991-12-09",
+            "school": "St. Joseph's (PA)"
+         },
+         {
+            "playerId": "530",
+            "name": "Alonzo Gee",
+            "team": "DEN",
+            "position": "SF",
+            "height": "6-6",
+            "weight": "225",
+            "dob": "1987-05-29",
+            "school": "Alabama"
+         },
+         {
+            "playerId": "531",
+            "name": "Buddy Hield",
+            "team": "NOP",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "214",
+            "dob": "1993-12-17",
+            "school": "Oklahoma"
+         },
+         {
+            "playerId": "532",
+            "name": "Solomon Hill",
+            "team": "NOP",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "225",
+            "dob": "1991-03-18",
+            "school": "Arizona"
+         },
+         {
+            "playerId": "533",
+            "name": "Jrue Holiday",
+            "team": "NOP",
+            "position": "PG",
+            "height": "6-4",
+            "weight": "205",
+            "dob": "1990-06-12",
+            "school": "UCLA"
+         },
+         {
+            "playerId": "534",
+            "name": "Terrence Jones",
+            "team": "NOP",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "255",
+            "dob": "1992-01-09",
+            "school": "Kentucky"
+         },
+         {
+            "playerId": "535",
+            "name": "E'Twaun Moore",
+            "team": "NOP",
+            "position": "SG",
+            "height": "6-4",
+            "weight": "191",
+            "dob": "1989-02-25",
+            "school": "Purdue"
+         },
+         {
+            "playerId": "536",
+            "name": "Quincy Pondexter",
+            "team": "NOP",
+            "position": "SF",
+            "height": "6-6",
+            "weight": "225",
+            "dob": "1988-03-10",
+            "school": "Washington"
+         },
+         {
+            "playerId": "537",
+            "name": "Robert Sacre",
+            "team": "LAL",
+            "position": "C",
+            "height": "7-0",
+            "weight": "270",
+            "dob": "1989-06-06",
+            "school": "Gonzaga"
+         },
+         {
+            "playerId": "538",
+            "name": "Lance Stephenson",
+            "team": "NOP",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "230",
+            "dob": "1990-09-05",
+            "school": "Cincinnati"
+         },
+         {
+            "playerId": "539",
+            "name": "LaMarcus Aldridge",
+            "team": "SAS",
+            "position": "PF",
+            "height": "6-11",
+            "weight": "240",
+            "dob": "1985-07-19",
+            "school": "Texas"
+         },
+         {
+            "playerId": "540",
+            "name": "Kyle Anderson",
+            "team": "SAS",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "230",
+            "dob": "1993-09-20",
+            "school": "UCLA"
+         },
+         {
+            "playerId": "541",
+            "name": "Joel Anthony",
+            "team": "DET",
+            "position": "C",
+            "height": "6-9",
+            "weight": "245",
+            "dob": "1982-08-09",
+            "school": "Nevada-Las Vegas"
+         },
+         {
+            "playerId": "542",
+            "name": "Ryan Arcidiacono",
+            "team": "SAS",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "188",
+            "dob": "1994-03-26",
+            "school": "Villanova"
+         },
+         {
+            "playerId": "543",
+            "name": "Davis Bertans",
+            "team": "SAS",
+            "position": "SF",
+            "height": "6-10",
+            "weight": "210",
+            "dob": "1992-11-12",
+            "school": "No College"
+         },
+         {
+            "playerId": "544",
+            "name": "Dewayne Dedmon",
+            "team": "SAS",
+            "position": "C",
+            "height": "7-0",
+            "weight": "245",
+            "dob": "1989-08-12",
+            "school": "USC"
+         },
+         {
+            "playerId": "545",
+            "name": "Bryn Forbes",
+            "team": "SAS",
+            "position": "SG",
+            "height": "6-3",
+            "weight": "190",
+            "dob": "1993-07-23",
+            "school": "Michigan State"
+         },
+         {
+            "playerId": "546",
+            "name": "Patricio Garino",
+            "team": "SAS",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "210",
+            "dob": "1993-05-17",
+            "school": "George Washington"
+         },
+         {
+            "playerId": "547",
+            "name": "Pau Gasol",
+            "team": "SAS",
+            "position": "C",
+            "height": "7-0",
+            "weight": "250",
+            "dob": "1980-07-06",
+            "school": "No College"
+         },
+         {
+            "playerId": "548",
+            "name": "Manu Ginobili",
+            "team": "SAS",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "205",
+            "dob": "1977-07-28",
+            "school": "No College"
+         },
+         {
+            "playerId": "549",
+            "name": "Danny Green",
+            "team": "SAS",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "215",
+            "dob": "1987-06-22",
+            "school": "North Carolina"
+         },
+         {
+            "playerId": "550",
+            "name": "Livio Jean-Charles",
+            "team": "SAS",
+            "position": "SF",
+            "height": "6-9",
+            "weight": "217",
+            "dob": "1993-11-08",
+            "school": "No College"
+         },
+         {
+            "playerId": "551",
+            "name": "Nicolas Laprovittola",
+            "team": "SAS",
+            "position": "PG",
+            "height": "6-4",
+            "weight": "180",
+            "dob": "1990-01-31",
+            "school": "No College"
+         },
+         {
+            "playerId": "552",
+            "name": "David Lee",
+            "team": "SAS",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "245",
+            "dob": "1983-04-29",
+            "school": "Florida"
+         },
+         {
+            "playerId": "553",
+            "name": "Kawhi Leonard",
+            "team": "SAS",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "230",
+            "dob": "1991-06-29",
+            "school": "San Diego State"
+         },
+         {
+            "playerId": "554",
+            "name": "Patty Mills",
+            "team": "SAS",
+            "position": "PG",
+            "height": "6-0",
+            "weight": "185",
+            "dob": "1988-08-11",
+            "school": "St. Mary's (CA)"
+         },
+         {
+            "playerId": "555",
+            "name": "Dejounte Murray",
+            "team": "SAS",
+            "position": "PG",
+            "height": "6-5",
+            "weight": "170",
+            "dob": "1996-09-19",
+            "school": "Washington"
+         },
+         {
+            "playerId": "556",
+            "name": "Tony Parker",
+            "team": "SAS",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "185",
+            "dob": "1982-05-17",
+            "school": "No College"
+         },
+         {
+            "playerId": "557",
+            "name": "Ryan Richards",
+            "team": "SAS",
+            "position": "PF",
+            "height": "6-11",
+            "weight": "265",
+            "dob": "1991-04-24",
+            "school": "No College"
+         },
+         {
+            "playerId": "558",
+            "name": "Jonathon Simmons",
+            "team": "SAS",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "195",
+            "dob": "1989-09-14",
+            "school": "Houston"
+         },
+         {
+            "playerId": "559",
+            "name": "Marcus Georges-Hunt",
+            "team": "BOS",
+            "position": "G",
+            "height": "6-5",
+            "weight": "220",
+            "dob": "1994-03-28",
+            "school": "Georgia Tech"
+         },
+         {
+            "playerId": "560",
+            "name": "Yogi Ferrell",
+            "team": "DAL",
+            "position": "PG",
+            "height": "6-0",
+            "weight": "180",
+            "dob": "1993-05-09",
+            "school": "Indiana"
+         },
+         {
+            "playerId": "561",
+            "name": "Damien Inglis",
+            "team": "NYK",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "246",
+            "dob": "1995-05-20",
+            "school": "No College"
+         },
+         {
+            "playerId": "562",
+            "name": "Drew Crawford",
+            "team": "TOR",
+            "position": "SG",
+            "height": "6-5",
+            "weight": "209",
+            "dob": "1990-10-18",
+            "school": "Northwestern"
+         },
+         {
+            "playerId": "563",
+            "name": "Brady Heslip",
+            "team": "TOR",
+            "position": "SG",
+            "height": "6-2",
+            "weight": "180",
+            "dob": "1990-06-19",
+            "school": "Baylor"
+         },
+         {
+            "playerId": "564",
+            "name": "E.J. Singler",
+            "team": "TOR",
+            "position": "SF",
+            "height": "6-6",
+            "weight": "215",
+            "dob": "1990-06-06",
+            "school": "Oregon"
+         },
+         {
+            "playerId": "565",
+            "name": "Jarrod Uthoff",
+            "team": "TOR",
+            "position": "F",
+            "height": "6-9",
+            "weight": "221",
+            "dob": "1993-05-19",
+            "school": "Iowa"
+         },
+         {
+            "playerId": "566",
+            "name": "Fred VanVleet",
+            "team": "TOR",
+            "position": "PG",
+            "height": "6-0",
+            "weight": "195",
+            "dob": "1994-02-25",
+            "school": "Wichita State"
+         },
+         {
+            "playerId": "567",
+            "name": "Toney Douglas",
+            "team": "NOP",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "195",
+            "dob": "0000-00-00",
+            "school": "Florida State"
+         },
+         {
+            "playerId": "568",
+            "name": "J.R. Smith",
+            "team": "CLE",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "225",
+            "dob": "1985-09-09",
+            "school": "No College"
+         },
+         {
+            "playerId": "569",
+            "name": "Josh Magette",
+            "team": "ATL",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "160",
+            "dob": "1989-11-28",
+            "school": "Alabama-Huntsville"
+         },
+         {
+            "playerId": "570",
+            "name": "Perry Ellis",
+            "team": "CHA",
+            "position": "PF",
+            "height": "6-8",
+            "weight": "225",
+            "dob": "1993-09-14",
+            "school": "Kansas"
+         },
+         {
+            "playerId": "571",
+            "name": "Vashil Fernandez",
+            "team": "MIA",
+            "position": "C",
+            "height": "6-10",
+            "weight": "260",
+            "dob": "0000-00-00",
+            "school": ""
+         },
+         {
+            "playerId": "572",
+            "name": "Danuel House",
+            "team": "WAS",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "215",
+            "dob": "1993-06-07",
+            "school": "Texas A M"
+         },
+         {
+            "playerId": "573",
+            "name": "Sheldon McClellan",
+            "team": "WAS",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "200",
+            "dob": "1992-12-21",
+            "school": "Miami (Fla.)"
+         },
+         {
+            "playerId": "574",
+            "name": "Johnny O'Bryant III",
+            "team": "MIL",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "257",
+            "dob": "0000-00-00",
+            "school": "LSU"
+         },
+         {
+            "playerId": "575",
+            "name": "Casper Ware",
+            "team": "WAS",
+            "position": "PG",
+            "height": "5-10",
+            "weight": "175",
+            "dob": "1990-01-17",
+            "school": "Long Beach State"
+         },
+         {
+            "playerId": "576",
+            "name": "Grant Jerrett",
+            "team": "POR",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "235",
+            "dob": "1993-07-08",
+            "school": "Arizona"
+         },
+         {
+            "playerId": "577",
+            "name": "Tim Quarterman",
+            "team": "POR",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "190",
+            "dob": "1994-10-27",
+            "school": "Louisiana State"
+         },
+         {
+            "playerId": "578",
+            "name": "Greg Stiemsma",
+            "team": "POR",
+            "position": "C",
+            "height": "6-11",
+            "weight": "260",
+            "dob": "1985-09-26",
+            "school": "Wisconsin"
+         },
+         {
+            "playerId": "579",
+            "name": "Eric Dawson",
+            "team": "UTA",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "255",
+            "dob": "0000-00-00",
+            "school": "Midwestern State"
+         },
+         {
+            "playerId": "580",
+            "name": "Jeff Ayres",
+            "team": "LAC",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "250",
+            "dob": "0000-00-00",
+            "school": "Arizona State"
+         },
+         {
+            "playerId": "581",
+            "name": "Jaleel Cousins",
+            "team": "DAL",
+            "position": "C",
+            "height": "6-11",
+            "weight": "265",
+            "dob": "0000-00-00",
+            "school": ""
+         },
+         {
+            "playerId": "582",
+            "name": "Bobby Brown",
+            "team": "HOU",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "175",
+            "dob": "1984-09-24",
+            "school": "Cal State-Fullerton"
+         },
+         {
+            "playerId": "583",
+            "name": "P.J. Hairston",
+            "team": "HOU",
+            "position": "SF",
+            "height": "6-6",
+            "weight": "230",
+            "dob": "1992-12-24",
+            "school": "North Carolina"
+         },
+         {
+            "playerId": "584",
+            "name": "Kyle Wiltjer",
+            "team": "HOU",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "240",
+            "dob": "1992-10-20",
+            "school": "Gonzaga"
+         },
+         {
+            "playerId": "585",
+            "name": "Chris Crawford",
+            "team": "MEM",
+            "position": "PG",
+            "height": "6-4",
+            "weight": "222",
+            "dob": "1992-09-30",
+            "school": "Memphis"
+         },
+         {
+            "playerId": "586",
+            "name": "Quinn Cook",
+            "team": "NOP",
+            "position": "PG",
+            "height": "6-2",
+            "weight": "179",
+            "dob": "1993-03-23",
+            "school": "Duke"
+         },
+         {
+            "playerId": "587",
+            "name": "Chris Copeland",
+            "team": "NOP",
+            "position": "SF",
+            "height": "6-8",
+            "weight": "235",
+            "dob": "0000-00-00",
+            "school": "Colorado"
+         },
+         {
+            "playerId": "588",
+            "name": "Shawn Dawson",
+            "team": "NOP",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "205",
+            "dob": "1993-12-12",
+            "school": "No College"
+         },
+         {
+            "playerId": "589",
+            "name": "Reggie Williams",
+            "team": "NOP",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "205",
+            "dob": "1986-09-14",
+            "school": "Virginia Military Inst."
+         }
+]

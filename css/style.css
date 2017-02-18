@@ -1,0 +1,306 @@
+@font-face {
+    font-family: "Sports EA Sports";
+    src: url("/fonts/Sports EA Sports.ttf")
+}
+
+@font-face {
+    font-family: "NBA Milwaukee Bucks 2015";
+    src: url("/fonts/NBA Milwaukee Bucks 2015.otf")
+}
+
+.btn {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-family: "NBA Milwaukee Bucks 2015";
+    font-size: 7rem;
+    text-align: center;
+}
+
+.section {
+    min-height: 1000px;
+    overflow: hidden;
+    position: relative;
+    padding-top: 80px;
+}
+
+.jumbotron {
+    background-color: snow;
+    opacity: .8;
+}
+
+.section:nth-child(even){
+    background-color: grey;
+}
+
+#teamFont {
+    margin-bottom: 7rem;
+}
+
+.rotate-icon {
+    transition-duration: 1s; 
+    position: relative;
+}
+
+.rotate-icon:hover {
+    -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
+}
+
+input[type=image] {
+    height: 100px;
+}
+
+.team-name {
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.row {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.home-logos {
+    margin-bottom: 20px;
+    overflow: hidden;
+    padding: 20px 20px;
+    position: relative;
+    text-align: center;
+}
+
+.jumbobtn {
+    text-align: center;
+}
+
+header {
+    background: url("/gswCurry.gif") no-repeat center center fixed;
+    background-size: cover;
+}
+
+#Highlights {
+    background: url(/images/about.jpg) no-repeat center center fixed;
+    background-size: cover;
+    padding-bottom: 20px;
+    color: black;
+}
+
+.footerTag {
+    color: blue;
+}
+
+.footerTag:hover {
+    color: white;
+}
+
+#teamName {
+    text-align: center;
+}
+
+.btn-danger {
+    background-color: orangered;
+    margin-left: 43%;
+}
+
+.tableHeader {
+    font-size: 5rem;
+
+}
+
+#tblTeamLogo {
+    width: 8em;
+    height: 8em;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: black;
+}
+
+.btn-danger:hover {
+    opacity: .8;
+
+}
+
+a:focus, a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+#signUp {
+    background: url(/images/players.jpg) no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+}
+
+footer {
+    padding-left: 17%;
+    background-color: lightgrey;
+    color: black;
+    text-align: center;
+}
+
+.jumboH {
+    text-align: center;
+    font-size: 7rem;
+    font-family: "Sports EA Sports", serif;
+}
+
+.formFix {
+    padding-top: 5rem;
+}
+
+button {
+    background-color: orangered;
+    margin-left: 43%;
+    margin-bottom: 1.5rem;
+}
+
+.fbButton {
+    background-color: mediumslateblue;
+    color: white;
+}
+
+.btn.focus, .btn:focus, .btn:hover {
+    opacity: .7;
+    color: white;
+}
+
+.twitterBtn {
+    background-color: deepskyblue;
+    color: white;
+}
+
+.googleBtn {
+    background-color: #dd4b39;
+    color: white;
+}
+
+input[type="text"], 
+input[type="password"], 
+textarea, 
+textarea.form-control {
+	height: 50px;
+    margin: 0;
+    padding: 0 20px;
+    vertical-align: middle;
+    background: #fff;
+    border: 3px solid #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 50px;
+    color: #888;
+    -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;
+    -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none;
+    -o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
+}
+
+textarea, 
+textarea.form-control {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	line-height: 30px;
+}
+
+input[type="text"]:focus, 
+input[type="password"]:focus, 
+textarea:focus, 
+textarea.form-control:focus {
+	outline: 0;
+	background: #fff;
+    border: 3px solid #fff;
+    -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none;
+}
+
+input[type="text"]:-moz-placeholder, input[type="password"]:-moz-placeholder, 
+textarea:-moz-placeholder, textarea.form-control:-moz-placeholder { color: #888; }
+
+input[type="text"]:-ms-input-placeholder, input[type="password"]:-ms-input-placeholder, 
+textarea:-ms-input-placeholder, textarea.form-control:-ms-input-placeholder { color: #888; }
+
+input[type="text"]::-webkit-input-placeholder, input[type="password"]::-webkit-input-placeholder, 
+textarea::-webkit-input-placeholder, textarea.form-control::-webkit-input-placeholder { color: #888; }
+
+
+
+button.btn {
+	height: 50px;
+    margin: 0;
+    padding: 0 20px;
+    vertical-align: middle;
+    background: #19b9e7;
+    border: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 50px;
+    color: #fff;
+    -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;
+    text-shadow: none;
+    -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none;
+    -o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
+}
+
+button.btn:hover { opacity: 0.6; color: #fff; }
+
+button.btn:active { outline: 0; opacity: 0.6; color: #fff; -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none; }
+
+button.btn:focus { outline: 0; opacity: 0.6; background: #19b9e7; color: #fff; }
+
+button.btn:active:focus, button.btn.active:focus { outline: 0; opacity: 0.6; background: #19b9e7; color: #fff; }
+
+
+@media only screen and (min-width: 90.063rem){
+    .columns {
+          position: relative;
+          padding-left: .9375rem;
+          padding-right: .9375rem;
+          float: left;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .jumbotron .h1, .jumbotron h1 {
+        font-size: 10rem;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .jumbotron .h1, .jumbotron h1 {
+        font-size: 5rem;
+    }
+}
+
+@media (min-width: 691px) {
+    .middle-border {
+        min-height: 35rem;
+        margin-top: 7rem;
+        border-right: 2px solid white;
+    }
+}
+
+@media (max-width: 690px) {
+    .middle-border {
+        min-height: 6rem;
+        margin: 1rem 0 3rem;
+        border-bottom: 2px solid white;
+        padding-top: 11%;
+    }
+
+    #signUpBtn {
+        margin-bottom: 2rem;
+    }
+}
+
+@media (max-width: 759px) {
+    header {
+        background: url(/images/superCurry.png) no-repeat center center fixed;
+        background-size: cover;
+    }
+}
